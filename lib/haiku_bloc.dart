@@ -20,7 +20,8 @@ class HaikuBlocState extends State<HaikuBloc> {
   final _stream = StreamController<Haiku>.broadcast();
   Stream<Haiku> get stream => _stream.stream;
 
-  HaikuBlocState() : _currentHaiku = Haiku(0);
+  HaikuBlocState()
+      : _currentHaiku = Haiku(DateTime.now().millisecondsSinceEpoch);
 
   Haiku _currentHaiku;
   Haiku get currentHaiku => _currentHaiku;

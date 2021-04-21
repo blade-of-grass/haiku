@@ -41,6 +41,8 @@ class _HomePageState extends State<HomePage> {
                 ),
               ),
             ),
+            floatingActionButtonLocation:
+                FloatingActionButtonLocation.centerFloat,
             floatingActionButton: FloatingActionButton(
               onPressed: HaikuBloc.of(context).generateHaiku,
               child: Icon(Icons.refresh),

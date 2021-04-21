@@ -41,8 +41,25 @@ class Haiku {
       final int syllableIndex = prng.nextInt(syllables);
       final int wordIndex = prng.nextInt(_dictionary[syllableIndex].length);
 
-      line += _dictionary[syllableIndex][wordIndex] + ' ';
+      line += _dictionary[syllableIndex][wordIndex];
       syllables -= syllableIndex + 1;
+
+      if (syllables < 1) {
+        int punctuation = prng.nextInt(100);
+        if (punctuation < 3) {
+          line += '-';
+        } else if (punctuation < 6) {
+          line += '!';
+        } else if (punctuation < 9) {
+          line += '?';
+        } else if (punctuation < 20) {
+          line += '.';
+        } else if (punctuation < 35) {
+          line += ',';
+        }
+      } else {
+        line += ' ';
+      }
     }
     return line;
   }
