@@ -1,0 +1,2702 @@
+the definite_article adverb
+of preposition
+and conjunction noun
+to preposition adverb
+in preposition adverb
+that definite_article conjunction
+was verb_participle
+his definite_article pronoun
+he pronoun noun
+it pronoun noun
+ore noun
+inn noun
+yer adjective
+with preposition
+is verb_participle
+for preposition conjunction
+as conjunction preposition
+had verb_participle
+you pronoun noun
+not adverb
+be verb_participle verb_intransitive
+her pronoun definite_article
+on preposition adverb
+at preposition noun
+by preposition adverb
+which definite_article pronoun
+have verb_participle noun
+or noun adjective
+from preposition
+this definite_article adverb
+him pronoun
+but conjunction preposition
+all definite_article adverb
+she pronoun noun
+they pronoun
+were verb_participle
+my definite_article interjection
+are verb_participle noun
+me pronoun noun
+one definite_article pronoun
+their definite_article
+so adverb conjunction
+an definite_article conjunction
+said adjective verb_participle
+them pronoun definite_article
+we pronoun
+who pronoun noun
+would verb_participle
+been verb_participle
+will verb_participle noun
+no adverb noun
+when adverb conjunction
+there adverb pronoun
+if conjunction noun
+more definite_article adverb
+out adverb preposition
+up noun verb_participle
+do verb_participle verb_transitive
+your definite_article
+what definite_article adverb
+has verb_participle
+man noun interjection
+could verb_participle
+than conjunction preposition
+our definite_article
+some definite_article adverb
+time noun verb_participle
+may verb_participle noun
+its definite_article
+now adverb conjunction
+like adjective preposition
+then adverb noun
+can verb_participle noun
+should verb_participle
+made verb_participle adjective
+did verb_participle
+us pronoun noun
+such definite_article adverb
+great adjective adverb
+must verb_participle noun
+two noun definite_article
+these definite_article
+see verb_participle verb_transitive
+know verb_participle noun
+much definite_article adverb
+down preposition adverb
+first adjective noun
+good adjective interjection
+men noun
+own definite_article verb_transitive
+most definite_article adverb
+old adjective noun
+shall verb_participle
+day noun
+where adverb pronoun
+those definite_article
+came verb_participle noun
+come verb_participle verb_transitive
+way noun adverb
+work noun verb_transitive
+life noun
+go noun verb_participle
+make verb_participle verb_intransitive
+well adverb adjective
+through preposition adjective
+long adjective noun
+say verb_participle adverb
+might verb_participle noun
+how adverb noun
+am verb_participle noun
+too adverb
+def noun
+back noun adjective
+here adverb noun
+think verb_participle verb_intransitive
+went verb_participle
+same adjective adverb
+last adjective adverb
+thought verb_participle noun
+take verb_participle verb_intransitive
+found verb_participle adjective
+hand noun verb_transitive
+eyes noun
+still adjective adverb
+place noun verb_participle
+while conjunction noun
+just adjective adverb
+young adjective noun
+yet conjunction adverb
+though conjunction adverb
+things noun
+get verb_participle verb_intransitive
+give verb_participle verb_intransitive
+god noun
+years noun
+off preposition adverb
+face noun verb_participle
+right adjective adverb
+once adverb conjunction
+left adjective adverb
+part noun adverb
+saw noun verb_participle
+house noun verb_participle
+world noun adjective
+head noun verb_transitive
+three noun definite_article
+took verb_participle
+new adjective adverb
+love verb_transitive verb_intransitive
+put verb_participle noun
+night noun
+each definite_article adverb
+king noun verb_transitive
+tell verb_participle verb_transitive
+mind noun verb_participle
+heart noun verb_participle
+few definite_article noun
+thing noun
+whom pronoun
+far adverb adjective
+seemed verb_participle
+looked verb_participle
+called adjective
+whole adjective adverb
+de noun preposition
+set verb_participle verb_intransitive
+both definite_article conjunction
+got verb_participle
+find verb_participle noun
+done verb_participle interjection
+heard verb_participle adjective
+look verb_participle verb_transitive
+name noun verb_transitive
+days adverb noun
+told verb_participle adjective
+let verb_participle noun
+lord noun verb_transitive
+asked verb_participle
+seen verb_participle adjective
+home noun adjective
+knew verb_participle
+side noun adjective
+course noun verb_intransitive
+hands noun
+words noun
+soon adverb
+full adjective adverb
+end noun verb_transitive
+gave verb_participle
+room noun verb_intransitive
+small adjective adverb
+thou pronoun noun
+want verb_transitive noun
+light noun adjective
+quite adverb
+brought verb_participle
+nor conjunction
+word noun verb_transitive
+whose definite_article
+door noun
+best adjective adverb
+turned adjective
+does verb_participle
+use verb_participle verb_transitive
+felt verb_participle noun
+since preposition conjunction
+used adjective
+voice noun verb_transitive
+white adjective noun
+works noun
+less definite_article adverb
+next adjective adverb
+poor adjective
+death noun
+stood verb_participle
+form noun verb_participle
+till conjunction preposition
+thy definite_article
+large adjective noun
+kind adjective noun
+year noun
+friend noun verb_transitive
+half noun definite_article
+round adjective noun
+true adjective verb_transitive
+keep verb_participle verb_transitive
+sent verb_participle adjective
+wife noun
+means noun
+passed adjective
+feet noun
+near preposition adverb
+state noun verb_transitive
+son noun
+thus adverb
+hope noun verb_transitive
+case noun verb_transitive
+dear adjective interjection
+thee pronoun
+says noun
+high adjective adverb
+read verb_participle verb_transitive
+fact noun
+gone verb_participle adjective
+girl noun
+known verb_participle adjective
+hear verb_participle verb_transitive
+times noun
+least definite_article adverb
+sure adjective adverb
+land noun verb_participle
+leave verb_participle verb_transitive
+air noun verb_participle
+law noun
+help verb_participle verb_transitive
+lay verb_participle verb_intransitive
+point noun verb_transitive
+child noun
+four noun definite_article
+wish verb_participle verb_transitive
+fire noun verb_participle
+cried verb_participle
+speak verb_participle verb_intransitive
+hour noun
+friends plural
+held verb_participle adjective
+free adjective adverb
+war adverb verb_participle
+er interjection noun
+call verb_participle verb_transitive
+why adverb conjunction
+john noun
+dead adjective noun
+earth noun verb_intransitive
+boy noun interjection
+lost adjective noun
+forth adverb preposition
+soul noun
+feel verb_participle verb_transitive
+care verb_participle verb_intransitive
+truth noun
+ground noun verb_transitive
+rest noun verb_participle
+mean verb_participle verb_intransitive
+fell verb_participle verb_transitive
+kept verb_participle adjective
+short adjective adverb
+town noun
+need verb_participle verb_transitive
+cause noun verb_transitive
+met verb_participle
+five noun definite_article
+strong adjective adverb
+french noun
+live verb_participle verb_transitive
+sea noun adjective
+fear noun verb_participle
+hard adjective adverb
+terms noun
+doubt noun verb_transitive
+ask verb_participle verb_transitive
+arms noun
+turn verb_participle verb_transitive
+sense noun verb_transitive
+seems verb_transitive
+black adjective noun
+bring verb_participle
+close verb_participle verb_transitive
+dark adjective noun
+hold verb_participle verb_transitive
+sort noun verb_transitive
+sight noun verb_transitive
+ten noun definite_article
+show verb_participle verb_transitive
+fine noun verb_transitive
+ye pronoun definite_article
+book noun verb_participle
+talk verb_intransitive noun
+mark noun verb_participle
+bed noun verb_participle
+age noun verb_participle
+else definite_article adverb
+force noun verb_transitive
+art noun verb_participle
+spoke verb_participle noun
+ought verb_participle noun
+line noun verb_transitive
+eye noun verb_participle
+sun noun verb_participle
+reached verb_participle
+past adjective noun
+hours noun
+strange adjective adverb
+deep adjective noun
+change verb_participle verb_transitive
+miles plural
+act noun verb_intransitive
+meet verb_participle verb_transitive
+paid verb_participle adjective
+seem verb_participle
+blood noun verb_transitive
+rose noun verb_transitive
+south noun adjective
+cold adjective noun
+view noun verb_transitive
+sound noun verb_participle
+none pronoun noun
+clear adjective verb_transitive
+road noun adjective
+late adjective adverb
+stand verb_participle verb_transitive
+la noun interjection
+mine pronoun definite_article
+laws noun
+comes noun
+bad adjective noun
+cut verb_participle verb_transitive
+six noun definite_article
+peace noun verb_intransitive
+low adjective adverb
+north noun adjective
+fall verb_participle verb_transitive
+fair adjective adverb
+hair noun
+null noun
+laid verb_participle adjective
+pass adjective verb_participle
+led verb_participle noun
+run verb_participle verb_intransitive
+horse noun verb_transitive
+west noun adjective
+pay verb_participle verb_transitive
+red noun adjective
+hath verb_participle
+note noun verb_transitive
+gold noun adjective
+makes verb_transitive
+play verb_participle verb_transitive
+tried verb_participle adjective
+front noun adjective
+big adjective adverb
+lived adjective verb_participle
+wind noun verb_transitive
+church noun verb_transitive
+strength noun
+length noun
+placed verb_participle adjective
+glad adjective verb_transitive
+bear verb_participle verb_intransitive
+ran verb_participle
+faith noun interjection
+charge verb_participle verb_transitive
+lips plural
+arm noun verb_transitive
+send verb_participle verb_transitive
+foot noun verb_participle
+wild adjective adverb
+die verb_participle verb_transitive
+save verb_transitive verb_intransitive
+trees plural
+green noun adjective
+smile noun verb_intransitive
+books plural
+wrong adjective noun
+sleep noun verb_participle
+drew verb_participle
+walked verb_participle
+chief noun adjective
+chance noun verb_transitive
+deal verb_participle verb_transitive
+loved verb_participle adjective
+knows verb_intransitive
+try verb_transitive verb_intransitive
+sweet adjective adverb
+plain adjective noun
+wrote verb_participle
+mouth noun verb_participle
+rich adjective noun
+thoughts plural
+months plural
+joy noun verb_intransitive
+states plural verb_intransitive
+ship noun verb_participle
+filled adjective
+write verb_participle verb_transitive
+boys plural
+parts noun
+please verb_participle adverb
+march verb_intransitive verb_transitive
+tears noun
+caught verb_participle
+stay verb_intransitive verb_transitive
+struck verb_participle adjective
+blue noun adjective
+school noun verb_transitive
+raised adjective verb_participle
+food noun
+youth noun
+reach verb_transitive noun
+moved verb_participle adjective
+walk verb_intransitive noun
+stopped adjective
+laughed verb_participle
+week noun adverb
+hall noun
+born verb_participle adjective
+court noun verb_participle
+grew verb_participle
+showed verb_participle
+third adjective noun
+worth adjective noun
+tree noun verb_transitive
+fight verb_participle verb_transitive
+wall noun verb_transitive
+tone noun verb_intransitive
+mere adjective noun
+month noun
+street noun
+goes verb_participle noun
+fresh adjective noun
+duke noun
+bound verb_participle adjective
+east noun adjective
+wood noun verb_transitive
+stone noun adverb
+bright adjective noun
+boat noun verb_intransitive
+meant verb_participle
+chair noun verb_transitive
+due noun adverb
+tom noun
+date noun verb_transitive
+lives noun
+lines plural verb_transitive
+field noun verb_transitive
+wished verb_participle
+wait verb_participle verb_intransitive
+piece noun verb_transitive
+ex preposition noun
+formed adjective
+hill noun verb_transitive
+cry verb_participle verb_intransitive
+cost noun verb_participle
+girls plural
+broke verb_participle adjective
+sit verb_participle verb_transitive
+news noun
+top noun verb_participle
+scene noun
+step noun verb_participle
+race noun verb_participle
+per definite_article preposition
+learn verb_participle verb_transitive
+bit noun verb_participle
+speech noun
+lie verb_participle verb_intransitive
+cast verb_participle verb_intransitive
+eat verb_participle verb_transitive
+floor noun verb_participle
+ill adjective noun
+ways noun adverb
+walls plural
+watch verb_participle verb_intransitive
+pleased adjective
+leaves noun
+hot adjective adverb
+killed verb_participle
+fast adjective adverb
+brown noun adjective
+pain noun verb_transitive
+spring verb_participle verb_transitive
+takes verb_intransitive
+drawn adjective
+steps noun
+soft adjective adverb
+straight adjective adverb
+trust noun verb_transitive
+laugh verb_intransitive verb_transitive
+eight noun definite_article
+closed adjective
+gives verb_intransitive
+dress verb_participle verb_transitive
+sake noun
+breath noun
+wise adjective verb_participle
+grave noun adjective
+fixed adjective
+spot noun verb_participle
+troops noun
+rise verb_participle verb_transitive
+break verb_participle verb_transitive
+camp noun verb_intransitive
+sky noun verb_participle
+touch interjection noun
+shore noun verb_transitive
+named noun verb_participle
+looks verb_intransitive
+plan noun verb_participle
+spent verb_participle adjective
+pale adjective verb_participle
+shot noun verb_participle
+lead verb_participle verb_intransitive
+move verb_participle noun
+names noun
+stop verb_participle verb_transitive
+et conjunction noun
+threw verb_participle
+worse adjective noun
+built verb_participle adjective
+glass noun verb_transitive
+board noun verb_participle
+vain adjective noun
+safe adjective adverb
+loss noun
+class noun verb_participle
+forms plural verb_transitive
+warm adjective verb_participle
+drink verb_participle verb_transitive
+ones plural
+ears plural
+start verb_participle verb_intransitive
+smiled verb_participle
+spite noun verb_transitive
+shown verb_participle
+james noun
+hart noun
+hat noun verb_participle
+dog noun verb_participle
+main adjective noun
+pride noun verb_transitive
+crowd noun verb_intransitive
+train verb_transitive verb_intransitive
+path noun
+greek noun
+fit noun verb_participle
+lot pronoun noun
+proved adjective
+rule noun verb_participle
+sword noun
+seat noun verb_transitive
+game noun adjective
+health noun interjection
+grace noun verb_transitive
+dream noun verb_participle
+rock noun verb_participle
+jack noun adjective
+shook noun verb_participle
+glance verb_intransitive verb_transitive
+heads interjection adverb
+fee noun verb_participle
+share noun verb_transitive
+spread verb_participle verb_transitive
+twelve noun definite_article
+space noun verb_transitive
+wine noun verb_intransitive
+taste noun verb_participle
+trade noun verb_transitive
+forced adjective
+rate noun verb_participle
+clothes noun
+sign noun verb_participle
+judge noun verb_participle
+watched verb_participle
+marked adjective
+bill noun verb_transitive
+vast adjective noun
+prove verb_participle verb_intransitive
+quick adjective noun
+yes adverb noun
+sought verb_participle adjective
+neck noun verb_intransitive
+hearts noun
+sides plural
+dry adjective verb_participle
+serve verb_participle verb_transitive
+pure adjective
+lose verb_participle verb_intransitive
+thrown verb_participle adjective
+page noun verb_transitive
+weeks plural
+search verb_participle verb_transitive
+sad adjective verb_participle
+sin noun verb_intransitive
+lies plural verb_transitive
+proud adjective adverb
+price noun verb_transitive
+ships plural
+sick adjective noun
+shut verb_participle verb_transitive
+talked verb_participle
+bank noun verb_transitive
+fate noun verb_transitive
+dropped verb_participle adjective
+hills noun
+seek verb_participle noun
+stream noun verb_participle
+ear noun verb_intransitive
+bread noun verb_transitive
+aid verb_participle verb_transitive
+choose verb_participle verb_transitive
+rights noun adjective
+tax noun verb_transitive
+sons plural
+cross noun verb_transitive
+thick adjective adverb
+points plural verb_intransitive
+woods noun
+facts plural
+dare verb_transitive noun
+grow verb_participle verb_intransitive
+hung verb_participle adjective
+rain noun verb_intransitive
+false adjective adverb
+tall adjective
+gate noun verb_transitive
+streets plural
+blow verb_participle verb_transitive
+coast noun verb_participle
+file noun verb_participle
+birds plural
+song noun
+wealth noun
+failed adjective
+grass noun verb_participle
+touched adjective
+draw verb_participle verb_intransitive
+stage noun verb_transitive
+june noun
+fish noun verb_intransitive
+tongue noun verb_transitive
+served verb_participle
+breast noun verb_transitive
+snow noun verb_intransitive
+claim verb_participle noun
+hast verb_participle
+sharp adjective adverb
+prince noun
+group noun verb_participle
+played adjective
+yours pronoun
+add verb_participle verb_transitive
+pray verb_participle verb_transitive
+taught verb_participle adjective
+tired adjective verb_participle
+kill verb_participle noun
+weight noun verb_transitive
+mass noun verb_participle
+gray adjective noun
+brave adjective noun
+thin adjective adverb
+check verb_participle verb_intransitive
+weak adjective
+frank adjective verb_participle
+guess verb_participle noun
+heat noun verb_participle
+bent adjective noun
+seized verb_participle adjective
+guard verb_participle verb_transitive
+box noun verb_transitive
+gods plural
+moon noun verb_participle
+slight adjective verb_transitive
+style noun verb_participle
+saved verb_participle adjective
+crossed adjective
+pounds plural
+paul noun
+worked adjective
+grown adjective
+midst noun preposition
+liked verb_participle adjective
+bore verb_participle verb_transitive
+list noun verb_transitive
+calm adjective noun
+nice adjective noun
+joined adjective
+kings plural
+twice adverb
+throw verb_participle noun
+ceased verb_participle
+priest noun verb_transitive
+drive verb_participle noun
+fault noun verb_participle
+beat verb_participle verb_transitive
+fool noun verb_transitive
+hurt verb_participle verb_intransitive
+wants plural verb_transitive
+height noun
+size noun verb_participle
+edge noun verb_transitive
+task noun verb_transitive
+nine noun definite_article
+burst verb_participle verb_intransitive
+dressed adjective
+hopes plural verb_intransitive
+noise noun verb_transitive
+rode verb_participle noun
+tells verb_intransitive plural
+minds plural
+flesh noun verb_transitive
+grand adjective noun
+legs plural
+post noun verb_transitive
+rank noun verb_transitive
+storm noun verb_participle
+wore verb_participle
+loud adjective adverb
+thank verb_transitive verb_participle
+rules plural
+bird noun verb_participle
+coat noun verb_transitive
+shape noun verb_participle
+birth noun verb_transitive
+smoke noun verb_transitive
+stands noun
+teeth noun verb_participle
+shame noun verb_transitive
+bay noun verb_intransitive
+brain noun verb_transitive
+soil noun verb_participle
+ring noun verb_participle
+phrase noun verb_transitive
+acts noun
+square noun adjective
+pair noun verb_participle
+won verb_participle noun
+fruit noun verb_participle
+mad adjective verb_participle
+tea noun
+rocks plural
+slaves plural verb_intransitive
+slow adjective adverb
+grief noun
+prayer noun
+stars plural
+buy verb_participle verb_intransitive
+ride verb_participle verb_transitive
+fields plural
+drove verb_participle noun
+sum noun verb_participle
+stones plural
+fees plural
+catch verb_participle verb_transitive
+knees plural
+gained verb_participle
+slave noun verb_intransitive
+loose adjective noun
+text noun
+worst adjective adverb
+sold verb_participle adjective
+don verb_participle noun
+hoped verb_participle
+fond noun adjective
+firm adjective adverb
+proof noun adjective
+pressed adjective
+join verb_participle verb_intransitive
+crime noun
+dust noun verb_transitive
+lands plural verb_intransitive
+doors plural
+sing verb_participle verb_intransitive
+nose noun verb_transitive
+rooms noun
+clean adjective verb_participle
+fail verb_participle verb_intransitive
+choice noun adjective
+huge adjective
+needs adverb
+wear verb_participle verb_transitive
+blind adjective adverb
+rough adjective noun
+shows plural verb_intransitive
+fly verb_participle verb_intransitive
+praise noun verb_transitive
+smith noun
+gain verb_transitive verb_intransitive
+notes plural verb_intransitive
+bought verb_participle adjective
+souls plural
+based verb_participle adjective
+car noun
+dick noun
+bare adjective verb_transitive
+fought verb_participle
+hate verb_participle verb_intransitive
+lake noun
+faint adjective verb_intransitive
+thinks verb_intransitive
+drop noun verb_participle
+brief adjective noun
+goods noun
+tale noun
+skin noun verb_participle
+roof noun verb_transitive
+grey adjective noun
+crown noun verb_transitive
+throne noun verb_participle
+ease noun verb_participle
+mile noun adverb
+dull adjective verb_participle
+clouds plural
+term noun verb_transitive
+cup noun verb_participle
+strike verb_participle verb_transitive
+pulled adjective
+flight noun verb_transitive
+yards plural
+whilst conjunction
+bow verb_participle verb_intransitive
+suit noun verb_participle
+plans plural verb_intransitive
+lest conjunction adverb
+paused verb_participle
+meat noun
+milk noun verb_participle
+dogs plural
+plants plural verb_transitive
+rare adjective
+raise verb_participle noun
+obs noun
+cool adjective adverb
+bridge noun verb_participle
+stock noun adjective
+type noun verb_participle
+signs plural
+pope noun
+queen noun verb_participle
+teach verb_participle verb_transitive
+count verb_participle verb_transitive
+dance verb_intransitive verb_transitive
+fled verb_participle
+kissed verb_participle
+guns noun verb_participle
+fill verb_participle noun
+guide verb_participle verb_transitive
+lad noun
+harm noun verb_transitive
+views plural verb_intransitive
+ends plural verb_intransitive
+shop noun verb_participle
+stairs noun
+gay adjective noun
+beg verb_participle verb_intransitive
+kinds plural
+fat noun adjective
+sand noun verb_transitive
+worn verb_participle adjective
+flat adjective adverb
+gift noun verb_transitive
+skill noun
+calls plural
+en noun
+wound noun verb_participle
+whence adverb pronoun
+rushed adjective
+bold adjective noun
+helped verb_participle
+sell verb_participle verb_transitive
+self noun pronoun
+throat noun
+dreams plural
+speed noun verb_participle
+growth noun
+slept verb_participle
+thine definite_article
+sounds plural
+swift adjective adverb
+wings noun
+stepped verb_participle
+base noun verb_transitive
+win verb_participle noun
+maid noun
+site noun verb_transitive
+sail noun verb_participle
+feared verb_participle
+store verb_transitive verb_intransitive
+shalt verb_participle
+cook noun verb_participle
+pause verb_intransitive noun
+band noun verb_participle
+hence conjunction adverb
+kiss verb_transitive verb_intransitive
+plant noun verb_transitive
+ice noun verb_participle
+ball noun verb_transitive
+stick noun verb_participle
+fierce adjective
+rage noun verb_intransitive
+gun noun verb_participle
+shade noun verb_participle
+hide verb_participle verb_transitive
+range noun verb_intransitive
+host noun verb_participle
+wet adjective noun
+cloud noun verb_participle
+ed noun
+waste verb_transitive noun
+spend verb_participle verb_transitive
+source noun
+deck noun verb_transitive
+sees verb_transitive
+aunt noun
+reign noun verb_intransitive
+hers pronoun
+doth verb_participle
+thanks interjection
+banks plural
+cap noun verb_participle
+waves plural verb_intransitive
+glanced verb_participle
+pushed adjective
+press verb_participle verb_transitive
+fleet noun adjective
+bowed adjective
+staff noun verb_participle
+stretched adjective
+gaze verb_intransitive noun
+meal noun
+blame noun verb_transitive
+guests plural
+job noun verb_participle
+loves plural
+risk noun verb_transitive
+ad noun
+wit noun verb_participle
+fame noun verb_transitive
+lack noun verb_participle
+dawn noun verb_intransitive
+gets verb_transitive
+lights plural
+sheep noun
+spare verb_transitive verb_intransitive
+farm noun verb_transitive
+corn noun verb_transitive
+jane noun
+key noun verb_transitive
+towns plural
+flame noun verb_participle
+priests plural
+cloth noun
+gazed verb_participle
+fourth adjective noun
+bell noun verb_participle
+urged verb_participle
+ascii noun
+begged verb_participle
+hole noun verb_participle
+borne verb_participle
+files plural
+sigh verb_intransitive verb_transitive
+thrust verb_participle noun
+frame noun verb_participle
+disk noun verb_participle
+haste noun verb_participle
+knight noun verb_transitive
+charm noun verb_participle
+rolled adjective
+email noun
+flung verb_participle
+verse noun verb_participle
+turns plural verb_intransitive
+branch noun verb_intransitive
+rear noun verb_transitive
+stared verb_participle
+boats plural
+keen adjective verb_participle
+bones noun
+luck noun verb_intransitive
+scheme noun verb_transitive
+oil noun verb_transitive
+thence adverb
+dim adjective verb_participle
+pipe noun verb_participle
+print verb_participle verb_transitive
+smooth adjective adverb
+build verb_participle verb_intransitive
+eggs noun
+burned adjective
+oh interjection
+cries verb_participle
+noon noun
+cease verb_participle noun
+tent noun verb_intransitive
+beast noun
+gates plural
+stern adjective noun
+knife noun verb_transitive
+dread verb_transitive noun
+jim noun
+silk noun verb_intransitive
+links noun
+cent noun
+finds verb_intransitive
+bade verb_participle noun
+lords plural verb_transitive
+hell noun interjection
+grant verb_transitive noun
+tribes plural
+hit adjective verb_participle
+mixed adjective
+prayers plural
+treat noun verb_transitive
+flew verb_participle noun
+speaks verb_transitive
+slipped verb_participle
+ours pronoun
+yield verb_participle verb_transitive
+schools plural verb_transitive
+rush verb_participle verb_intransitive
+falls noun
+stayed verb_participle
+sins verb_intransitive plural
+anne noun
+pen noun verb_participle
+tide verb_intransitive noun
+vol noun
+leaned verb_participle
+tail noun verb_participle
+fears plural verb_transitive
+nights adverb
+tied adjective
+cat noun verb_participle
+port noun verb_participle
+male adjective noun
+mode noun
+poured verb_participle
+sank verb_participle
+brings verb_transitive
+trace noun verb_transitive
+chose verb_participle noun
+tribe noun
+costs noun
+sang verb_participle noun
+sam noun
+sorts verb_transitive plural
+rude adjective
+winds plural verb_transitive
+scenes plural
+shake verb_participle verb_transitive
+claims plural verb_transitive
+lamp noun
+sex noun verb_transitive
+trail verb_participle verb_intransitive
+shone verb_participle
+nurse noun verb_participle
+match noun verb_participle
+wrath noun adjective
+gifts plural
+chain noun verb_participle
+debt noun
+shoes noun
+mood noun
+crew noun verb_participle
+yard noun
+vague adjective
+odd adjective noun
+wives noun
+cared verb_participle
+jews plural
+joe noun
+dutch noun adjective
+ate verb_participle noun
+steel noun verb_transitive
+test verb_participle noun
+shed noun verb_participle
+folks noun
+star noun verb_participle
+deeds noun
+oath noun
+guest noun verb_intransitive
+bar noun adjective
+row noun verb_participle
+bless verb_participle
+stir verb_participle verb_intransitive
+fix verb_participle verb_intransitive
+deed noun verb_transitive
+sighed verb_participle
+vote noun verb_participle
+leg noun verb_participle
+bid verb_participle noun
+scarce adjective adverb
+rev noun verb_participle
+hang verb_participle noun
+shock verb_participle noun
+strain verb_participle verb_intransitive
+drank verb_participle
+aim verb_participle verb_transitive
+bag noun verb_participle
+beasts plural
+track noun verb_participle
+rid verb_participle adjective
+holds plural verb_intransitive
+swear verb_participle verb_intransitive
+fun noun verb_participle
+apt adjective
+queer adjective noun
+seed noun verb_participle
+runs verb_transitive
+stuff verb_participle verb_intransitive
+sole adjective noun
+roads noun
+plate noun verb_transitive
+pains noun
+dwell verb_participle noun
+grounds noun
+taxes plural verb_intransitive
+tones plural verb_transitive
+wave verb_participle verb_intransitive
+folk noun adjective
+marched verb_participle
+writes verb_transitive
+sailed verb_participle verb_intransitive
+pull verb_participle verb_intransitive
+hid verb_participle
+rope noun verb_transitive
+vi noun
+arts noun
+feast noun verb_intransitive
+burn verb_participle verb_transitive
+card noun verb_transitive
+flow verb_participle verb_transitive
+scale noun verb_transitive
+marks plural
+ben noun preposition
+wrought verb_participle adjective
+songs plural
+torn verb_participle adjective
+hunt verb_participle verb_intransitive
+web noun verb_transitive
+chest noun
+depth noun
+clerk noun verb_intransitive
+drunk adjective noun
+pour verb_participle verb_transitive
+lift verb_participle noun
+limbs plural
+plays plural verb_transitive
+dragged verb_participle
+flag noun verb_participle
+boots noun
+bears plural verb_transitive
+signed adjective
+walks plural verb_intransitive
+feed verb_participle verb_intransitive
+roll verb_participle verb_transitive
+wilt verb_participle noun
+inch noun verb_participle
+lee noun adjective
+owe verb_participle verb_intransitive
+trip noun verb_intransitive
+shoot verb_participle verb_transitive
+owns verb_transitive
+beard noun verb_transitive
+stirred verb_participle adjective
+tear noun verb_participle
+dan noun
+bob verb_participle verb_intransitive
+depths plural
+breeze noun verb_intransitive
+jean noun
+smell verb_participle verb_intransitive
+locked adjective
+courts plural
+pick verb_participle noun
+desk noun
+gross adjective noun
+lane noun adjective
+root noun verb_intransitive
+mud noun verb_participle
+cleared adjective
+feels verb_intransitive
+fruits plural
+bride noun
+rang verb_participle
+ranks plural verb_transitive
+grasp verb_participle verb_transitive
+veil noun verb_transitive
+gloom noun verb_intransitive
+prize noun verb_transitive
+greeks plural
+foe noun
+shared adjective
+id noun
+coach noun verb_participle
+knocked verb_participle
+keeps verb_intransitive
+leads verb_intransitive
+sale noun
+wheel noun verb_participle
+burnt verb_participle adjective
+flash noun verb_transitive
+fed verb_participle noun
+curse noun verb_participle
+zeal noun
+groups plural verb_intransitive
+fort noun verb_participle
+club noun verb_participle
+cure verb_transitive verb_intransitive
+stout adjective noun
+missed adjective
+flood noun verb_participle
+seas plural
+grain noun verb_participle
+steep adjective verb_participle
+route noun verb_transitive
+non adjective
+wire noun verb_participle
+crept verb_participle
+greece noun
+knee noun verb_participle
+scorn noun verb_participle
+grows verb_transitive
+clock noun verb_transitive
+roots plural verb_transitive
+jumped verb_participle
+sore adjective noun
+slip verb_participle verb_intransitive
+fires plural verb_transitive
+wept verb_participle
+stroke noun verb_transitive
+cave noun verb_transitive
+wars plural verb_intransitive
+stiff adjective noun
+score noun verb_transitive
+ruth noun
+blows verb_intransitive
+plains plural
+flashed verb_participle
+rent noun verb_transitive
+prey noun verb_intransitive
+owed verb_participle adjective
+sheet noun verb_transitive
+gas noun verb_participle
+claimed verb_participle
+glow noun verb_intransitive
+leaf noun verb_participle
+jones noun
+pound verb_participle verb_transitive
+pierre noun
+sunk verb_participle adjective
+beach noun verb_participle
+flour noun verb_transitive
+roar verb_participle verb_transitive
+hut noun verb_participle
+seats noun
+bark noun verb_intransitive
+wake noun verb_participle
+prayed verb_participle
+jest noun verb_participle
+washed adjective
+nerves noun
+swung verb_participle
+wing noun verb_participle
+dwelt verb_participle
+trick noun verb_participle
+joke noun verb_intransitive
+mist noun verb_participle
+shell noun verb_participle
+nest noun verb_intransitive
+fetch verb_participle noun
+tomb noun verb_transitive
+coarse adjective
+heap noun adverb
+homes plural
+hint noun verb_participle
+knights plural
+dreamed verb_participle adjective
+craft noun verb_transitive
+pink noun adjective
+heels plural
+streams plural verb_intransitive
+flames plural
+sport noun verb_transitive
+beds plural
+shout noun verb_participle
+bath noun verb_participle
+chap verb_participle noun
+roused verb_participle
+climbed verb_participle
+mail noun verb_transitive
+wrapped verb_participle adjective
+paint noun verb_participle
+mild adjective noun
+nay noun adverb
+lit verb_participle noun
+quit verb_participle verb_transitive
+plot noun verb_participle
+dish noun verb_transitive
+cares plural verb_intransitive
+straw noun adjective
+net noun verb_participle
+wounds plural verb_transitive
+warmth noun
+rays plural
+shores plural
+flushed adjective
+wont noun verb_participle
+steam noun verb_participle
+ned noun
+trained adjective
+warned verb_participle
+shield noun verb_transitive
+chairs plural
+searched verb_participle
+mate noun verb_participle
+ghost noun verb_participle
+blew verb_participle
+wash verb_participle verb_transitive
+clay noun verb_transitive
+trunk noun
+dried verb_participle adjective
+chiefs plural
+coal noun verb_participle
+vice noun adjective
+deemed verb_participle
+pile noun verb_participle
+spell verb_participle verb_transitive
+bone noun verb_participle
+grim adjective
+leaped verb_participle
+pole noun verb_transitive
+sink verb_participle noun
+ward noun verb_transitive
+cheer verb_participle noun
+siege noun verb_transitive
+sets plural verb_transitive
+load noun verb_participle
+brass noun
+fifth adjective noun
+faced verb_participle adjective
+cheap adjective noun
+saints plural
+owned adjective
+seize verb_participle verb_intransitive
+springs plural
+fence noun verb_transitive
+leagues plural
+glimpse noun verb_participle
+doubts plural
+fro adverb
+string noun verb_participle
+strict adjective
+likes plural verb_transitive
+corps noun
+judged verb_participle
+wheels noun
+pack noun verb_transitive
+drops plural verb_transitive
+deer noun
+bush noun adjective
+plunged verb_participle
+joint noun adjective
+spake verb_participle
+jan noun
+weep verb_participle verb_transitive
+bench noun verb_transitive
+ralph noun
+heir noun
+oak noun adjective
+faults plural
+charms plural
+purse noun verb_transitive
+chase verb_participle verb_transitive
+gown noun verb_transitive
+lock noun verb_participle
+foul adjective noun
+types plural
+breathed adjective
+bells plural
+shine verb_participle verb_intransitive
+dashed adjective adverb
+dates plural verb_transitive
+theirs pronoun
+clasped noun verb_participle
+spared verb_participle
+crushed adjective
+waved adjective verb_participle
+slope verb_participle verb_intransitive
+learnt verb_participle
+stores noun
+guessed verb_participle
+heed noun verb_participle
+woe noun interjection
+den noun verb_participle
+dine verb_intransitive verb_transitive
+ann noun
+sphere noun verb_transitive
+guilt noun
+steal verb_participle verb_transitive
+lip noun verb_participle
+dost verb_participle
+wheat noun
+smiles plural
+park noun verb_participle
+na noun
+stretch verb_participle verb_transitive
+lean verb_participle verb_intransitive
+knock verb_transitive verb_intransitive
+tie verb_participle verb_transitive
+cell noun
+void adjective noun
+egg noun verb_transitive
+crimes plural
+breathe verb_participle verb_intransitive
+sits verb_transitive
+thanked verb_participle
+seeds plural
+foes plural
+longed verb_participle
+lend verb_participle verb_intransitive
+lent verb_participle noun
+eh interjection
+veins plural
+seal noun verb_transitive
+mount verb_participle verb_intransitive
+harsh adjective
+kate noun
+lunch noun verb_intransitive
+pine noun verb_intransitive
+shells plural
+flies plural verb_intransitive
+push verb_participle verb_transitive
+tight adjective adverb
+sue verb_participle
+waist noun
+tore verb_participle noun
+lieu noun
+thread noun verb_transitive
+dumb adjective
+blank adjective noun
+del noun
+danced verb_participle
+dealt verb_participle
+cents plural
+whip verb_participle verb_transitive
+checked adjective
+shirt noun verb_participle
+sweep verb_participle noun
+sketch noun verb_participle
+thief noun
+ut noun
+guards plural verb_transitive
+ha interjection noun
+mob noun verb_participle
+thirst noun verb_intransitive
+asks verb_intransitive
+viewed verb_participle
+gleam noun verb_intransitive
+palm noun verb_transitive
+quoth verb_participle
+fur noun verb_participle
+holes plural
+spear noun verb_participle
+clung verb_participle
+neat adjective noun
+lap noun verb_participle
+damp adjective noun
+ridge noun verb_participle
+spoil verb_participle verb_transitive
+swords plural
+chains noun
+tin noun adjective
+couch noun verb_transitive
+bills plural
+sails plural
+dined verb_participle
+cow noun verb_transitive
+mill noun verb_participle
+map noun verb_participle
+porch noun
+ford noun verb_transitive
+clothed verb_transitive adjective
+jew noun
+bands plural
+nigh adjective adverb
+prose noun verb_participle
+codes plural
+saint noun verb_transitive
+awe noun verb_transitive
+strife noun
+beer noun
+wretch noun
+fain adverb adjective
+brains plural
+flock noun verb_intransitive
+niece noun
+rings plural
+smart adjective verb_participle
+boxes plural
+aught pronoun adverb
+creek noun
+lo interjection
+brush noun verb_transitive
+cream noun verb_transitive
+jump verb_intransitive verb_transitive
+pitch verb_participle verb_transitive
+cliff noun
+crowned adjective
+sites plural
+dies noun verb_participle
+pot noun verb_participle
+rice noun verb_transitive
+planned verb_participle adjective
+guy noun verb_transitive
+hired verb_participle adjective
+fools plural
+leap verb_participle verb_intransitive
+games plural
+bet noun verb_participle
+bull noun adjective
+raw adjective noun
+log noun verb_participle
+skies plural
+scotch verb_transitive noun
+robbed verb_participle
+cart noun verb_participle
+robe noun verb_participle
+tents plural
+herd noun verb_participle
+pan adjective noun
+blown verb_participle adjective
+paths plural
+backs plural verb_transitive
+heights noun
+gasped verb_participle
+breadth noun
+tune noun verb_participle
+traced verb_participle adjective
+pseud noun adjective
+squire noun verb_transitive
+bars noun
+tossed verb_participle
+block noun verb_participle
+lots adverb
+bloom noun verb_intransitive
+brute noun adjective
+fist noun verb_transitive
+dense adjective
+adds verb_intransitive
+rows plural
+sworn verb_participle adjective
+horn noun verb_transitive
+brook noun verb_transitive
+fund noun verb_transitive
+lodge noun verb_participle
+ruled verb_participle adjective
+pit noun verb_participle
+sheer adjective adverb
+fare noun verb_intransitive
+packed adjective
+el noun
+grasped verb_participle
+tend verb_participle verb_intransitive
+carved verb_participle adjective
+bonds plural
+corpse noun
+realm noun
+debts plural
+shops plural
+coin noun verb_transitive
+clad verb_participle adjective
+lace noun verb_participle
+fred noun
+trap noun verb_participle
+spots plural
+proofs plural
+wits plural
+cake noun verb_transitive
+lamps plural
+sir noun
+tongues noun
+praised verb_participle
+rob verb_participle verb_transitive
+wales noun
+knelt verb_participle
+stake noun verb_transitive
+tread verb_participle verb_intransitive
+mines plural
+brick noun verb_transitive
+arch noun verb_transitive
+sprung verb_participle
+shy adjective verb_participle
+prime adjective noun
+fog noun verb_participle
+bits plural
+moves plural verb_intransitive
+warn verb_participle verb_transitive
+vile adjective
+doom noun verb_transitive
+scent noun verb_transitive
+bliss noun
+stove noun verb_transitive
+joys plural
+flowed verb_participle
+brows plural
+swell verb_participle verb_intransitive
+wreck verb_participle verb_transitive
+bowl noun verb_participle
+swamp noun verb_participle
+nerve noun verb_transitive
+stare verb_intransitive noun
+pledge noun verb_participle
+earn verb_participle verb_transitive
+gang noun verb_participle
+boiled adjective
+shouts plural
+theme noun
+pool noun verb_transitive
+lads plural
+didst verb_participle
+workmen plural
+monks plural
+sends verb_transitive
+preach verb_participle
+woke verb_participle
+weighed verb_participle
+wool noun
+orleans noun
+strikes verb_transitive
+sticks plural
+drag noun verb_participle
+crop noun verb_participle
+wolf noun verb_transitive
+sheets plural
+bond noun verb_participle
+horns plural
+breaks plural verb_intransitive
+balls interjection
+rod noun
+blaze noun verb_intransitive
+mouths plural
+max noun
+juan noun
+goal noun
+cash noun verb_transitive
+lawn noun
+texts plural verb_intransitive
+tastes verb_transitive
+blush verb_intransitive noun
+shew verb_participle
+globe noun verb_participle
+throng noun verb_participle
+cheese noun verb_participle
+bite verb_participle verb_transitive
+breach noun verb_transitive
+cars plural
+dusk noun adjective
+truths plural
+plague noun verb_participle
+boil verb_participle verb_intransitive
+shocked adjective
+hanged verb_participle
+hats plural
+mirth noun
+bows plural
+pierced adjective
+tricks plural
+rubbed verb_participle
+fright noun verb_participle
+rail noun verb_transitive
+crops plural
+proves verb_transitive
+ripe adjective
+reigned verb_participle
+sixth adjective noun
+mask noun verb_participle
+sire noun verb_transitive
+keys plural
+damned adjective adverb
+vexed adjective
+bind verb_participle verb_transitive
+cliffs plural
+tools plural
+git noun
+bulk noun verb_participle
+bunch noun verb_participle
+cooked adjective
+hay noun verb_participle
+gale noun
+preached verb_participle
+hears verb_intransitive
+vow noun verb_transitive
+quaint adjective
+soup noun verb_participle
+beef noun verb_intransitive
+rests plural verb_intransitive
+slay verb_participle
+sealed verb_participle adjective
+posts plural verb_intransitive
+blade noun
+spy noun verb_participle
+shades noun
+robes plural
+maine noun
+chanced noun verb_participle
+locks plural
+votes plural
+bred verb_participle
+league noun verb_participle
+limb noun verb_transitive
+crack verb_participle verb_transitive
+naught noun adverb
+slew verb_participle noun
+dug verb_participle noun
+hearth noun
+snatched verb_participle
+shaft noun verb_participle
+linked adjective
+jove noun
+stem noun verb_participle
+dec noun
+cows noun
+schemes plural
+urge verb_transitive noun
+shrill adjective verb_participle
+dean noun
+flush verb_participle verb_transitive
+code noun verb_transitive
+split verb_participle verb_transitive
+snake noun verb_intransitive
+ass noun
+draws verb_transitive
+creed noun
+luke noun
+strove verb_participle
+cups plural
+wax noun verb_transitive
+spoiled adjective
+earned adjective
+prompt adjective adverb
+bronze noun adjective
+stooped adjective
+dew noun verb_transitive
+monk noun
+thrill noun verb_participle
+hue noun verb_participle
+funds noun
+dash verb_participle verb_intransitive
+strained adjective
+swim verb_participle verb_transitive
+strip verb_participle verb_intransitive
+team noun verb_participle
+tracks plural verb_transitive
+talks noun
+plane noun adjective
+sums plural
+deaf adjective noun
+grip noun verb_participle
+juice noun
+blast noun interjection
+nile noun
+troop noun verb_intransitive
+crowds plural verb_transitive
+axe noun verb_transitive
+holmes noun
+tops noun adjective
+boards noun
+cells plural
+reads verb_transitive
+sway verb_participle verb_transitive
+screen noun verb_transitive
+dirt noun adjective
+breed verb_participle verb_transitive
+shapes plural verb_transitive
+shrewd adjective
+nov noun
+halt noun interjection
+stamp verb_participle verb_intransitive
+whites plural
+drift verb_participle noun
+roared verb_participle
+ray noun verb_participle
+ink noun verb_transitive
+oft adverb
+draught noun verb_participle
+kin noun adjective
+worlds plural
+frost noun verb_participle
+glare verb_intransitive verb_transitive
+termed verb_participle
+yea adverb noun
+quest noun verb_participle
+crest noun verb_intransitive
+lakes plural
+swing verb_participle noun
+freed adjective
+lined verb_participle adjective
+shrugged verb_participle
+checks plural verb_transitive
+pub noun verb_participle
+grove noun
+hire verb_transitive noun
+fox noun verb_transitive
+grieved verb_participle
+stamped adjective
+wiped verb_participle
+oars interjection
+scared verb_participle adjective
+lodged adjective verb_participle
+hedge noun verb_transitive
+storms plural verb_intransitive
+beam noun verb_participle
+tour noun verb_participle
+wells plural
+earl noun
+piled adjective verb_participle
+boughs plural
+ports plural
+rhine noun
+bud noun verb_participle
+hail noun verb_intransitive
+beams plural
+pig noun verb_participle
+shaped adjective verb_participle
+aug noun
+stripped verb_participle adjective
+plead verb_participle verb_transitive
+cord noun verb_transitive
+flows verb_intransitive
+wrongs plural
+lungs plural
+serves verb_intransitive
+pint noun
+pipes noun
+pitched adjective
+tube noun verb_transitive
+smote verb_participle
+burke verb_transitive verb_participle
+nails plural
+wears verb_intransitive
+doomed noun
+bee noun
+mix verb_transitive noun
+sweat noun verb_participle
+tenth adjective noun
+folds plural verb_intransitive
+roofs plural
+mute adjective noun
+cage noun verb_transitive
+esq noun
+cured verb_participle adjective
+jail noun verb_transitive
+crowns plural
+feb noun
+scream verb_participle verb_intransitive
+fits verb_transitive
+cane noun verb_transitive
+fold verb_participle verb_transitive
+thieves plural
+tons noun
+dave noun
+moore noun
+meets verb_transitive
+stress noun verb_transitive
+groan noun verb_participle
+suits plural
+hosts plural
+crash verb_participle verb_intransitive
+quote verb_participle verb_transitive
+choked verb_participle adjective
+hurled verb_participle
+sack noun verb_transitive
+snapped verb_participle
+crush verb_participle verb_intransitive
+canst verb_participle
+smoked verb_participle adjective
+greet verb_transitive verb_intransitive
+strive verb_participle verb_intransitive
+curve noun verb_participle
+flank noun verb_participle
+logs plural
+lamb noun verb_intransitive
+reins noun
+trunks noun
+shrank verb_participle
+kent verb_participle noun
+maids plural
+rates plural
+bees plural
+tramp verb_intransitive noun
+van noun
+nought noun
+yoke noun verb_transitive
+threats plural
+lays verb_intransitive
+pays verb_intransitive
+nod verb_participle verb_transitive
+patch noun verb_transitive
+lance noun verb_transitive
+thumb noun verb_transitive
+wolves noun
+sales noun adjective
+trains plural verb_intransitive
+skirts plural verb_intransitive
+tip verb_participle verb_transitive
+kick verb_transitive noun
+dig verb_participle verb_transitive
+pet noun verb_participle
+skull noun
+ness noun
+threat noun verb_participle
+ghosts plural
+asp noun
+blocks plural verb_intransitive
+shrine noun verb_participle
+heel noun verb_transitive
+throws verb_intransitive
+frown verb_intransitive verb_transitive
+plunge verb_participle verb_intransitive
+moor noun verb_participle
+pin noun verb_participle
+mars noun
+framed verb_participle adjective
+jaws noun
+gulf noun verb_transitive
+rash adjective noun
+nick noun verb_transitive
+nan noun
+hon noun
+pulse noun verb_intransitive
+flee verb_participle verb_intransitive
+clause noun
+growled verb_participle
+charmed adjective
+knot noun verb_participle
+rags plural
+mock verb_participle verb_transitive
+clare noun
+skirt noun verb_transitive
+grin verb_participle verb_intransitive
+hoarse adjective
+mills plural
+lain verb_participle
+aimed verb_participle
+scope noun
+blushed verb_participle
+crow noun verb_intransitive
+shawl noun
+sings verb_intransitive
+coats plural
+strode verb_participle
+hook noun verb_participle
+airs noun
+spark noun verb_intransitive
+sleeve noun verb_transitive
+tame adjective verb_transitive
+ditch noun verb_participle
+tract noun
+plus preposition adjective
+farms plural
+ropes plural verb_intransitive
+hounds plural
+rains plural verb_intransitive
+pond noun
+wrist noun
+li noun
+tries verb_participle
+bags interjection
+reared verb_participle
+jaw noun verb_intransitive
+sect noun
+drum noun verb_participle
+poles plural
+verge noun verb_intransitive
+bin noun verb_participle
+stained adjective
+weigh verb_transitive verb_intransitive
+float verb_participle verb_transitive
+troy adjective noun
+shift verb_participle verb_transitive
+mould noun verb_transitive
+hymn noun verb_participle
+ken noun verb_participle
+witch noun verb_transitive
+backed adjective
+pomp noun
+mess noun verb_transitive
+bored verb_participle adjective
+shrink verb_participle noun
+crude adjective noun
+eve noun
+frail adjective noun
+hans noun
+mule noun
+bolt noun verb_transitive
+lame adjective verb_transitive
+vein noun verb_transitive
+lists plural verb_intransitive
+shoe noun verb_participle
+thrice adverb
+foam noun verb_participle
+keith noun
+fraud noun
+cats plural
+blamed adjective adverb
+jar noun verb_participle
+clerks plural
+ark noun
+moist adjective
+sauce noun verb_transitive
+writ noun verb_participle
+bruce noun
+deem verb_transitive verb_participle
+rolls plural verb_intransitive
+doe noun
+swiss noun
+loan noun verb_participle
+beads noun
+lust noun verb_intransitive
+ah interjection
+shares verb_intransitive
+saul noun
+shelf noun
+fan noun verb_participle
+kid noun verb_participle
+phase noun verb_transitive
+turf noun verb_transitive
+dame noun
+clubs plural
+creep verb_participle noun
+guides plural verb_intransitive
+vii noun
+link noun verb_participle
+pluck verb_transitive noun
+yon definite_article adjective
+moss noun
+skilled adjective
+med noun
+tough adjective noun
+plea noun
+lacked verb_participle
+mac noun
+fork noun verb_transitive
+stain verb_participle verb_intransitive
+hints plural verb_intransitive
+drinks plural verb_intransitive
+whipped verb_participle
+matt adjective noun
+steed noun
+width noun
+rouse verb_participle verb_transitive
+vent noun verb_participle
+vines plural
+flags plural verb_intransitive
+ranch noun verb_intransitive
+odds noun
+aims plural
+pie noun
+pigs plural
+choir noun verb_participle
+verb noun
+stead noun verb_transitive
+fling verb_participle noun
+dove noun verb_participle
+cracked adjective
+sexes plural
+pledged verb_participle adjective
+brushed adjective
+grieve verb_participle verb_transitive
+tim noun
+flint noun verb_transitive
+vault noun verb_transitive
+worm noun verb_participle
+ay interjection adverb
+eighth adjective noun
+knives noun
+te noun
+yacht noun verb_intransitive
+stray verb_intransitive noun
+tends plural verb_transitive
+wan adjective noun
+welsh verb_intransitive noun
+swam verb_participle
+slid verb_participle
+lump noun verb_transitive
+wee adjective noun
+dome noun verb_transitive
+cheered verb_participle
+curved noun verb_participle
+drives verb_intransitive
+alps noun
+harp noun verb_intransitive
+peaks plural verb_intransitive
+rub verb_participle verb_transitive
+grapes noun
+beans plural
+nail noun verb_transitive
+tact noun
+toast noun verb_transitive
+swelled verb_participle adjective
+mouse noun verb_participle
+helm noun verb_transitive
+slim adjective verb_participle
+lime noun verb_transitive
+spur noun verb_participle
+sown verb_participle adjective
+hush verb_participle noun
+breasts plural
+pat verb_participle verb_transitive
+strokes plural verb_intransitive
+sob verb_participle verb_transitive
+vine noun
+pots plural
+crust noun verb_participle
+sting verb_participle verb_transitive
+ho interjection noun
+ta interjection noun
+coasts plural verb_intransitive
+starve verb_participle verb_intransitive
+scots noun
+goat noun
+sour adjective noun
+spoils verb_intransitive plural
+pa noun
+ox noun
+carl noun
+blanche noun
+spray noun verb_participle
+sports noun
+ab noun
+scales plural
+calf noun
+melt verb_participle noun
+grade noun verb_transitive
+pang noun
+brisk adjective verb_participle
+stool noun verb_intransitive
+al noun
+spies plural
+yell verb_participle noun
+boot noun verb_transitive
+ale noun
+goose noun verb_transitive
+truce noun
+groves plural
+cling verb_participle noun
+duck noun verb_participle
+weird adjective noun
+males plural
+pairs plural
+con noun verb_participle
+lapse noun verb_intransitive
+soap noun verb_transitive
+eyed adjective
+doll noun
+nuts adjective interjection
+wright noun
+hides plural verb_intransitive
+co noun
+walt noun
+pearl noun adjective
+thrilled adjective
+gains plural verb_intransitive
+jokes plural verb_intransitive
+quod noun
+clue noun verb_participle
+tooth noun verb_participle
+clasp noun verb_transitive
+lets verb_intransitive
+wires plural
+wheeled adjective
+aye noun
+shriek noun verb_participle
+gap noun verb_participle
+rhyme noun verb_participle
+launched verb_participle
+vowed verb_participle
+caps noun
+owl noun
+suite noun
+heaped adjective
+babe noun
+rogue noun verb_transitive
+hull noun verb_participle
+jeff noun
+peak noun verb_transitive
+khan noun
+plucked adjective
+bids verb_intransitive
+clapped verb_participle
+zeus noun
+mike noun verb_intransitive
+tray noun
+mound noun verb_participle
+mast noun verb_transitive
+twist verb_participle verb_transitive
+groom noun verb_transitive
+solve verb_transitive verb_participle
+tempt verb_transitive verb_participle
+lid noun
+fowl noun verb_intransitive
+threads noun
+boss noun verb_participle
+piles noun
+peer noun verb_intransitive
+cheers interjection
+wrung verb_participle
+gilt verb_participle noun
+strand verb_participle verb_transitive
+sly adjective
+boon noun adjective
+brink noun
+hum verb_participle verb_intransitive
+trod verb_participle
+trench noun verb_participle
+fore adjective noun
+dey noun
+mend verb_transitive verb_intransitive
+meek adjective
+garb noun verb_transitive
+hushed adjective
+brand noun verb_transitive
+dipped verb_participle adjective
+tool noun verb_participle
+dwarf noun verb_participle
+paced adjective verb_participle
+tense adjective verb_participle
+drums plural verb_intransitive
+hen noun
+baked verb_participle adjective
+winged adjective
+trim adverb verb_transitive
+wrecked adjective
+ledge noun
+roast verb_participle verb_intransitive
+stocks noun
+mourn verb_participle verb_intransitive
+freight noun verb_transitive
+wipe verb_transitive noun
+shelves noun
+traits plural
+dire adjective
+gait noun verb_transitive
+clutched verb_participle
+sneer noun verb_intransitive
+plump adjective verb_participle
+cheat verb_participle verb_intransitive
+blest verb_participle adjective
+haunt verb_participle verb_transitive
+frock noun verb_transitive
+gal noun
+wed verb_transitive verb_intransitive
+plough noun verb_participle
+snakes plural
+reef noun verb_participle
+draft noun verb_transitive
+hound noun verb_transitive
+toy noun verb_intransitive
+stair noun
+cough verb_intransitive verb_transitive
+blazed verb_participle verb_transitive
+claude noun
+burns plural verb_intransitive
+din noun verb_participle
+zone noun verb_transitive
+ac noun
+ninth adjective noun
+heal verb_participle verb_intransitive
+karl noun
+staid adjective
+stuffed adjective
+steer verb_participle verb_transitive
+ounce noun
+drown verb_participle verb_transitive
+slide verb_participle verb_intransitive
+sow verb_participle verb_transitive
+rides plural verb_intransitive
+spoon noun verb_transitive
+pinch verb_participle verb_transitive
+ducks plural
+rum noun adjective
+ni noun
+bluff verb_participle noun
+dawned verb_participle
+chalk noun verb_participle
+fuss noun verb_intransitive
+dazed verb_participle adjective
+hem noun verb_participle
+gorge noun verb_participle
+damn interjection adjective
+theft noun
+rats interjection
+ash noun verb_participle
+floods plural verb_intransitive
+ti noun
+twelfth adjective noun
+prone adjective
+twins plural verb_transitive
+stoop verb_participle noun
+raft noun verb_participle
+fade verb_participle verb_intransitive
+soothe verb_transitive verb_intransitive
+pork noun
+dot noun verb_participle
+loaf noun verb_intransitive
+isle noun
+dip verb_participle verb_transitive
+unit noun
+brig noun
+chat noun verb_participle
+maps plural verb_intransitive
+trot verb_participle noun
+howl noun verb_participle
+ton noun adverb
+bricks plural
+sane adjective
+wreath noun verb_participle
+cork noun verb_transitive
+whale noun verb_transitive
+hare noun verb_intransitive
+haze noun verb_participle
+ted verb_participle noun
+caste noun
+leapt verb_participle
+grudge noun verb_transitive
+tips plural
+turk noun
+rhythm noun
+rat noun verb_participle
+knit verb_participle noun
+dis noun
+esp noun
+whig verb_intransitive noun
+wharf noun verb_transitive
+stunned verb_participle adjective
+drain noun verb_transitive
+wage noun verb_transitive
+tap verb_participle verb_transitive
+toe noun verb_transitive
+wade verb_participle verb_intransitive
+knave noun
+twain definite_article noun
+brood noun verb_participle
+plight noun verb_transitive
+alms noun
+wink verb_intransitive verb_transitive
+nous noun
+rack noun verb_transitive
+carts plural
+lone adjective
+counts plural
+scratch verb_participle verb_transitive
+screw noun verb_transitive
+hood noun verb_transitive
+glove noun verb_transitive
+chaste adjective
+whirl verb_participle verb_intransitive
+plank noun verb_transitive
+mi noun
+seals verb_participle
+knots plural
+wail verb_intransitive verb_transitive
+kneel verb_participle noun
+peep verb_intransitive noun
+swarm noun verb_intransitive
+bust noun verb_participle
+arched adjective
+furs plural
+dock noun verb_participle
+psalms plural
+hawk noun verb_intransitive
+rein noun verb_transitive
+bake verb_transitive verb_intransitive
+pierce verb_participle verb_intransitive
+snatch verb_transitive verb_intransitive
+launch verb_participle verb_transitive
+worms noun
+drug noun verb_participle
+gaunt adjective
+quart noun
+soothed verb_participle
+sic adverb verb_participle
+strait noun adjective
+cords noun
+trout noun
+paste noun verb_transitive
+scrap noun verb_participle
+fiend noun
+moan noun verb_participle
+trades plural verb_transitive
+rounds plural
+crawl verb_intransitive noun
+aft adverb adjective
+role noun
+dose noun verb_transitive
+snap verb_participle verb_intransitive
+tire verb_transitive verb_intransitive
+geese noun
+locke noun
+deals plural
+core noun verb_transitive
+durst verb_participle
+scratched adjective
+wert verb_participle
+wig noun verb_transitive
+pump noun verb_participle
+reigns plural verb_intransitive
+reap verb_participle verb_transitive
+dam noun verb_participle
+fringe noun verb_transitive
+feat noun adjective
+rue verb_participle noun
+toss verb_transitive verb_intransitive
+rung noun verb_participle
+scrape verb_participle verb_transitive
+pools plural verb_intransitive
+oar noun verb_participle
+bait noun verb_transitive
+login verb_participle
+slice noun verb_participle
+meg noun
+xi noun adjective
+drill noun verb_participle
+womb noun
+surf noun verb_intransitive
+weed noun verb_participle
+tapped verb_participle adjective
+gasp verb_intransitive verb_transitive
+glee noun
+lied noun
+pro adverb preposition
+eats noun
+snare noun verb_transitive
+wines plural
+flown verb_participle adjective
+thorn noun
+re noun preposition
+holt noun
+peas plural
+clan noun
+dart noun verb_participle
+berth noun verb_transitive
+tint noun verb_transitive
+aisle noun
+click noun verb_participle
+stump noun verb_transitive
+spun verb_participle adjective
+gear noun verb_transitive
+wares noun
+snug adjective noun
+chaps plural
+prints plural verb_intransitive
+rug noun
+ham noun verb_participle
+mice noun
+pose verb_participle verb_intransitive
+guise noun verb_participle
+noun noun
+scout noun verb_participle
+spit verb_participle verb_intransitive
+nun noun
+wad noun verb_participle
+curves plural
+sledge noun verb_participle
+butt noun verb_participle
+tank noun verb_transitive
+pins plural verb_intransitive
+chart noun verb_transitive
+twin adjective noun
+blunt adjective verb_transitive
+bleak adjective noun
+sub noun verb_participle
+drugs plural verb_intransitive
+ache verb_intransitive noun
+limp verb_intransitive noun
+deuce noun interjection
+thigh noun
+scant adjective verb_transitive
+mien noun
+cor interjection noun
+peers plural
+chant noun verb_participle
+marsh noun
+vase noun
+baths plural
+coil verb_participle verb_intransitive
+crisp adjective verb_participle
+jerk verb_participle verb_transitive
+tout adverb verb_participle
+stroll verb_participle verb_intransitive
+jam verb_participle verb_transitive
+shoots plural verb_intransitive
+nets plural verb_intransitive
+dice verb_participle
+shrunk verb_participle adjective
+swine noun
+tints plural verb_intransitive
+rout noun verb_transitive
+steve noun
+rag noun verb_participle
+punch verb_participle verb_transitive
+craig noun
+drained adjective
+stride noun verb_participle
+gum noun verb_participle
+lash noun verb_transitive
+lore noun
+scot noun
+scrub verb_participle verb_intransitive
+myth noun
+flights plural
+oats plural
+cape noun
+scare verb_participle verb_transitive
+waked verb_participle
+brake noun verb_participle
+kirk noun
+bough noun
+mat noun verb_participle
+shun verb_participle
+raid noun verb_participle
+puff noun verb_participle
+beak noun verb_participle
+rot verb_participle verb_intransitive
+grate verb_transitive noun
+lease noun verb_transitive
+pier noun
+stale adjective verb_participle
+comb noun verb_participle
+shaw noun
+rite noun
+si noun
+whim noun
+peg noun verb_participle
+reed noun verb_transitive
+streak noun verb_transitive
+blocked adjective
+smashed adjective
+farce noun verb_transitive
+germ noun
+bathe verb_intransitive verb_transitive
+slate noun verb_transitive
+gin noun verb_participle
+cleft verb_participle noun
+bart noun
+lambs plural
+tub noun verb_transitive
+greed noun
+herb noun
+ole adjective
+forged verb_participle verb_intransitive
+scourge noun verb_transitive
+vera noun
+spin verb_participle verb_transitive
+puffed adjective
+lids plural
+muse verb_participle verb_intransitive
+clump noun verb_intransitive
+flute noun verb_participle
+yore noun adverb
+jay noun
+fray noun verb_participle
+po noun
+beth noun
+ape noun verb_transitive
+span noun verb_participle
+snuff verb_transitive noun
+drooped verb_participle
+ills plural
+dye noun verb_participle
+bolts plural verb_intransitive
+lark noun adverb
+slips plural verb_intransitive
+seine noun verb_participle
+glide verb_participle verb_intransitive
+sol noun
+mane noun
+tinge verb_transitive noun
+brim noun verb_participle
+shrug verb_participle noun
+trait noun
+bribe verb_participle noun
+soiled adjective
+vest noun verb_transitive
+bass noun adjective
+squeeze verb_participle verb_intransitive
+dreamt verb_participle
+parched adjective
+curb noun verb_transitive
+scraps noun
+fried verb_participle adjective
+spade noun verb_transitive
+scorned adjective
+pail noun
+ma noun
+spouse noun verb_participle
+valve noun
+sup verb_participle verb_transitive
+ant noun adjective
+heath noun
+bug noun verb_participle
+bat noun verb_participle
+mates noun
+stalk noun verb_participle
+fret verb_participle verb_intransitive
+buck noun verb_intransitive
+dad noun
+chasm noun
+blot noun verb_participle
+nook noun
+jake adjective noun
+haul verb_participle verb_transitive
+hurts plural verb_intransitive
+splash verb_participle verb_transitive
+curl verb_intransitive verb_transitive
+brace noun verb_participle
+clothe verb_participle
+gem noun verb_participle
+wrap verb_participle verb_intransitive
+ram noun verb_participle
+wins plural
+awed adjective verb_participle
+whit noun
+stall noun verb_participle
+sham noun adjective
+gout noun
+jobs plural
+sate verb_transitive verb_participle
+ebb verb_intransitive noun
+cruise verb_intransitive noun
+cheque noun verb_participle
+perch noun verb_participle
+flask noun
+ka noun
+manned adjective
+wast verb_participle
+frog noun verb_participle
+yarn noun verb_intransitive
+smelt verb_transitive noun
+leaps verb_intransitive
+smite verb_participle verb_intransitive
+os noun
+barge noun verb_intransitive
+sponge noun verb_transitive
+cot noun
+wand noun
+grind verb_participle verb_intransitive
+bang noun verb_participle
+growl verb_participle verb_intransitive
+jug noun verb_participle
+sap noun verb_participle
+yale noun
+scarf noun verb_transitive
+aux noun
+scar noun verb_participle
+clash verb_participle verb_intransitive
+speck noun verb_transitive
+birch noun adjective
+dough noun
+clutch verb_transitive verb_intransitive
+trance noun verb_transitive
+mon noun
+meats plural
+filth noun
+ware noun verb_participle
+glen noun
+quay noun
+heave verb_participle verb_transitive
+film noun verb_participle
+wench noun verb_intransitive
+calves noun

@@ -1,0 +1,2002 @@
+another definite_article adjective
+however conjunction adverb
+together adverb adjective
+anything pronoun noun
+already adverb
+several definite_article adjective
+united adjective
+general adjective noun
+family noun
+really adverb interjection
+dishonour noun
+different adjective
+possible adjective noun
+following adjective noun
+understand verb_participle verb_transitive
+beautiful adjective
+overthrown adjective
+fishermen plural
+fundraising verb_participle
+inasmuch conjunction
+countrymen plural
+character noun verb_transitive
+interest noun verb_transitive
+idea noun
+continued verb_participle adjective
+everything pronoun
+suddenly adverb
+position noun verb_transitive
+remember verb_participle verb_transitive
+natural adjective noun
+copyright noun adjective
+history noun
+certainly adverb
+attention noun interjection
+government noun
+company noun verb_participle
+probably adverb
+important adjective
+opinion noun
+agreement noun
+gentleman noun
+various definite_article adjective
+according adjective
+beginning noun adjective
+donations plural
+enemy noun adjective
+condition noun verb_participle
+including verb_transitive
+influence noun verb_transitive
+appearance noun
+whatever pronoun definite_article
+period noun
+occasion noun verb_transitive
+easily adverb
+afterwards adverb
+expression noun
+property noun
+usual adjective noun
+expected adjective
+entirely adverb
+direction noun
+considered adjective
+permission noun
+afternoon noun adjective
+discovered adjective
+difficult adjective
+officers plural
+happiness noun
+religion noun
+personal adjective noun
+understood verb_participle adjective
+determined adjective
+century noun
+intended adjective noun
+terrible adjective
+medium adjective noun
+possession noun
+perfectly adverb
+memory noun
+existence noun
+religious adjective noun
+repeated adjective
+physical adjective noun
+example noun verb_transitive
+directly adverb conjunction
+serious adjective
+sufficient adjective noun
+wonderful adjective
+paragraph noun verb_transitive
+official adjective noun
+provided conjunction
+opposite adjective noun
+distribute verb_transitive verb_participle
+consider verb_participle
+accepted adjective
+advantage noun verb_transitive
+ideas plural
+decided adjective
+officer noun verb_transitive
+difference noun verb_transitive
+curious adjective
+excellent adjective
+confidence noun
+exactly adverb interjection
+importance noun
+finally adverb
+liberty noun
+gentlemen plural
+concerning preposition adjective
+forgotten verb_participle adjective
+evidence noun verb_transitive
+similar adjective
+conditions plural
+otherwise conjunction adverb
+carefully adverb
+presented adjective
+remembered adjective
+animal noun adjective
+created verb_participle
+quietly adverb
+regarded verb_transitive
+succeeded verb_transitive
+anyone pronoun
+animals plural
+occupied adjective
+opening noun adjective
+capital noun adjective
+presently adverb
+permitted verb_participle adjective
+enemies plural
+companion noun verb_transitive
+established adjective
+satisfied adjective verb_intransitive
+numerous adjective
+frequently adverb
+powerful adjective adverb
+national adjective noun
+principal adjective noun
+suggested adjective
+equally adverb
+principle noun
+consequence noun
+principles plural
+characters plural
+dangerous adjective
+genius noun
+popular adjective
+appointed adjective
+demanded verb_transitive
+distinguished adjective
+interests plural verb_transitive
+sympathy noun
+affection noun
+suffering noun adjective
+proceeded verb_participle
+carrying verb_participle
+collection noun
+imagine verb_participle verb_transitive
+admitted verb_participle adjective
+arrival noun
+november noun
+december noun
+impression noun
+relations noun
+rapidly adverb
+regular adjective noun
+quality noun adjective
+discover verb_transitive verb_participle
+completely adverb
+included adjective
+countenance noun verb_transitive
+previous adjective
+poetry noun
+policy noun
+excitement noun
+assistance noun
+dignity noun
+october noun
+possibly adverb
+separate verb_participle verb_transitive
+receiving verb_participle noun
+capable adjective
+instantly adverb
+relation noun
+practical adjective
+yesterday noun adverb
+delicate adjective noun
+continue verb_participle verb_transitive
+unable adjective
+victory noun
+constantly adverb
+india noun
+connected adjective
+addition noun
+committed verb_transitive adjective
+italian noun
+acquaintance noun
+sacrifice noun verb_participle
+exercise verb_participle verb_intransitive
+theory noun
+commanded verb_participle
+nobody pronoun noun
+minister noun verb_intransitive
+energy noun
+provisions noun
+description noun
+excited adjective
+citizens plural
+intention noun
+thoroughly adverb
+everywhere adverb
+connection noun
+protection noun
+edition noun
+directed adjective
+evident adjective
+surrounded adjective
+requirements plural
+introduced verb_transitive
+becoming adjective noun
+volunteers plural verb_transitive
+whenever conjunction
+successful adjective
+devoted adjective
+israel noun
+disappeared verb_participle
+accustomed adjective
+recognized verb_transitive adjective
+innocent adjective noun
+attitude noun
+returning adjective
+visible adjective noun
+actual adjective
+companions plural
+prisoner noun
+utterly adverb
+violent adjective
+september noun
+departure noun
+delivered verb_participle
+equipment noun
+earlier adverb adjective
+visited verb_participle
+anywhere adverb
+extremely adverb
+quantity noun
+conclusion noun
+computer noun
+affected adjective
+origin noun
+eternal adjective
+audience noun
+limited adjective noun
+services noun
+library noun
+remaining adjective
+containing verb_participle
+confusion noun
+editions plural
+attended adjective
+glorious adjective
+acquainted adjective
+unhappy adjective
+article noun verb_transitive
+prisoners plural
+adopted adjective
+absolute adjective noun
+readily adverb
+argument noun
+related adjective
+punishment noun
+articles plural
+extended adjective
+emotion noun
+destruction noun
+increasing adjective
+expenses plural
+ignorant adjective
+generous adjective
+mystery noun
+consciousness noun
+formerly adverb
+production noun
+compliance noun
+reported adjective
+listening noun
+accomplished adjective
+purposes plural verb_transitive
+delighted adjective
+suspicion noun
+opinions plural
+indicate verb_transitive verb_participle
+misery noun
+properly adverb
+singular adjective noun
+violence noun
+commercial adjective noun
+suggestion noun
+domestic adjective noun
+concluded verb_participle adjective
+reference noun verb_transitive
+approaching noun
+providing conjunction noun
+ignorance noun
+hitherto adverb
+benefit noun verb_participle
+eagerly adverb
+atmosphere noun
+invited verb_participle adjective
+departed adjective noun
+catholic adjective noun
+replacement noun
+division noun
+slavery noun
+decision noun
+probable adjective noun
+governor noun
+forever adverb noun
+delightful adjective
+occasions noun
+readable adjective
+beloved adjective noun
+apparent adjective
+attempted adjective
+centuries plural
+hastily adverb
+located verb_participle adjective
+announcement noun verb_transitive
+circumstance noun verb_transitive
+distinction noun
+essential adjective noun
+recovered adjective
+belonging noun
+permanent adjective noun
+gratitude noun
+sentiment noun
+desperate adjective noun
+imagined verb_participle adjective
+enormous adjective
+defective adjective
+conviction noun
+insisted verb_participle
+selected adjective
+developed verb_intransitive verb_transitive
+mistaken adjective
+damages noun
+ambition noun verb_participle
+ideal noun adjective
+descended verb_participle
+discussion noun
+instrument noun verb_participle
+elements noun
+entering noun
+africa noun
+sovereign noun adjective
+horrible adjective
+displaying verb_participle
+abandoned adjective
+eleven noun definite_article
+collected adjective
+arrangement noun
+politics noun
+industry noun
+profession noun
+interview noun verb_participle
+devotion noun
+creation noun
+supported adjective
+uniform noun adjective
+multitude noun
+infinite adjective
+copying noun
+apartment noun
+sensible adjective noun
+charity noun
+realized verb_participle adjective
+element noun
+reflection noun
+accordance noun
+examined verb_transitive
+somebody pronoun noun
+incident noun adjective
+poverty noun
+prevented verb_participle
+completed verb_participle adjective
+resistance noun
+suspected adjective
+deserted adjective
+cavalry noun
+exception noun
+offering noun
+exhausted adjective
+critical adjective
+directions plural
+residence noun
+steadily adverb
+intimate adjective verb_transitive
+enterprise noun
+favourite adjective noun
+heavily adverb
+assembled verb_participle adjective
+existed verb_participle
+settlement noun
+overcome verb_participle verb_transitive
+performing adjective noun
+recently adverb
+instructions noun
+furniture noun
+additions plural
+adventure noun verb_participle
+royalty noun
+annual adjective noun
+obtaining verb_participle
+moreover conjunction adverb
+average noun adjective
+conducted adjective
+obvious adjective
+foundation noun
+liberal adjective noun
+commonly adverb
+wondering adjective
+tenderness noun
+cardinal noun adjective
+regiment noun verb_participle
+distinctly adverb
+creating verb_participle
+performance noun
+election noun
+conception noun
+reflected adjective
+preceding adjective
+definite adjective
+emperor noun
+tendency noun
+enabled verb_transitive
+earnestly adverb
+genuine adjective
+passages plural
+succession noun
+persuaded verb_participle
+inquiry noun
+perfection noun
+wherever conjunction adverb
+fortunate adjective
+newspaper noun
+employment noun
+misfortune noun
+providence noun
+determine verb_participle verb_transitive
+commission noun verb_transitive
+provinces plural
+relative adjective noun
+wandering adjective noun
+provision noun verb_transitive
+regarding preposition adjective
+vanity noun
+deliver verb_participle
+represent verb_transitive verb_participle
+existing adjective
+suitable adjective
+legally adverb
+gathering noun adjective
+examine verb_transitive verb_participle
+instances plural
+theatre noun
+realize verb_participle verb_transitive
+intercourse noun
+criminal noun adjective
+intervals plural
+intellect noun
+resources plural
+narrative noun adjective
+sentiments plural
+amusement noun
+recognize verb_transitive verb_intransitive
+preparing verb_participle
+construction noun
+positive adjective noun
+attracted verb_participle
+satisfy verb_participle
+agony noun
+maria noun
+enjoyment noun
+horizon noun
+precisely adverb
+canada noun
+registered adjective
+estimate verb_participle verb_transitive
+visitor noun
+harmony noun
+paragraphs plural
+unconscious adjective noun
+mutual adjective
+external adjective noun
+universe noun
+instruction noun
+injury noun
+earliest adjective adverb
+enable verb_transitive verb_participle
+discipline noun verb_transitive
+converted adjective
+wilderness noun
+offices plural
+silently adverb
+responded verb_participle
+uncertain adjective
+neglected adjective
+exquisite adjective noun
+engagement noun
+messenger noun
+privilege noun verb_transitive
+physician noun
+organized verb_participle adjective
+covering noun adjective
+tradition noun
+sensation noun
+travelling verb_participle noun
+tragedy noun
+specific adjective noun
+commander noun
+paradise noun
+villages plural
+favorite noun adjective
+criticism noun
+hospital noun
+restrictions plural
+musical adjective noun
+samuel noun
+extensive adjective
+emotions plural
+jealousy noun
+translation noun
+procession noun verb_intransitive
+elected adjective
+citizen noun
+reminded verb_participle
+funeral noun
+arrested adjective
+consisted verb_participle
+proceedings noun
+romantic adjective noun
+reception noun
+heartily adverb
+warriors plural
+abruptly adverb
+solution noun
+pretended adjective
+assembly noun
+tobacco noun
+entity noun
+bitterly adverb
+colony noun
+disclaimers plural
+financial adjective
+entertained adjective
+medicine noun verb_participle
+reverence noun verb_transitive
+appointment noun
+solicit verb_participle
+objection noun
+arrangements plural
+complying verb_intransitive adjective
+grandfather noun
+vigorous adjective
+accepting adjective
+primitive adjective noun
+arguments plural
+surrender verb_transitive noun
+establish verb_transitive verb_participle
+appearing noun
+department noun
+handkerchief noun
+easier adjective
+assurance noun
+heavenly adjective
+proceeding noun
+impatient adjective
+certainty noun
+salvation noun
+tremendous adjective
+afforded verb_participle
+newspapers plural
+improvement noun
+treasury noun
+visitors plural
+erected verb_participle
+recover verb_transitive verb_intransitive
+committee noun
+promises plural verb_transitive
+effective adjective
+distinguish verb_participle
+manifest adjective verb_transitive
+confession noun
+management noun
+moderate adjective noun
+area noun
+solitude noun
+instruments plural
+struggling verb_participle adjective
+federal adjective noun
+editor noun
+acknowledge verb_transitive verb_participle
+motionless adjective
+remedy noun verb_transitive
+pacific adjective noun
+gratefully adverb
+president noun
+justified verb_participle adjective
+openly adverb
+advancing verb_participle adjective
+recorded adjective
+dramatic adjective
+internal adjective noun
+furious adjective
+adventures plural
+exclusion noun
+luxury noun adjective
+awakened adjective
+protected adjective
+contented adjective
+neighborhood noun
+abundance noun
+medical adjective noun
+garrison noun verb_transitive
+heroic adjective
+prominent adjective
+affections plural
+surrounding noun adjective
+remainder noun verb_transitive
+expecting adjective
+respecting preposition
+unpleasant adjective
+anxiously adverb
+innocence noun
+incomplete adjective
+secretly adverb
+invention noun
+piano noun adjective
+defeated noun
+electric adjective noun
+interval noun
+occupy verb_participle
+cruelty noun
+proposal noun
+destiny noun
+recognised verb_transitive
+ancestors plural
+commanding adjective
+happily adverb
+temptation noun
+subsequent adjective
+willingly adverb
+spectacle noun
+uneasy adjective
+attractive adjective
+interfere verb_intransitive verb_participle
+effected adjective
+passengers plural
+donation noun
+witnesses plural
+specified verb_participle adjective
+calculate verb_participle verb_transitive
+savages plural
+eloquence noun
+sensitive adjective
+appetite noun
+picturesque adjective
+courtesy noun
+remembrance noun
+elegant adjective
+avoided verb_participle
+delicious adjective noun
+offended adjective
+memories plural
+encounter verb_participle verb_transitive
+consisting verb_participle
+sufferings plural
+translated verb_participle
+formation noun
+immortal adjective noun
+gallery noun
+parallel adjective noun
+continent noun adjective
+impatience noun
+unity noun
+images plural
+submitted verb_participle
+speedily adverb
+consented verb_participle
+amazement noun
+hereafter adverb noun
+eminent adjective
+examples plural
+exercised verb_participle
+everyone pronoun
+abundant adjective
+undertake verb_participle verb_transitive
+magazine noun
+bitterness noun
+guardian noun adjective
+rejected adjective
+injustice noun
+expressions plural
+protested verb_participle
+abandon verb_transitive noun
+artistic adjective
+desirous adjective
+alliance noun
+maximum noun adjective
+hideous adjective
+hamilton noun
+unworthy adjective
+modified verb_participle adjective
+miracle noun
+observing verb_participle adjective
+resemblance noun
+rebellion noun
+forbidden adjective
+requested adjective
+promoting verb_transitive
+purity noun
+solemnly adverb
+republic noun
+telephone noun verb_participle
+infantry noun
+companies plural
+addresses plural verb_intransitive
+introduce verb_transitive verb_participle
+conversion noun
+african noun
+answering adjective
+virtuous adjective
+anyway adverb
+constructed verb_participle
+editing noun
+accomplish verb_transitive verb_participle
+suspended adjective
+threatening adjective
+addressing verb_participle
+encourage verb_transitive verb_participle
+intentions plural
+liable adjective
+traveller noun
+dependent adjective noun
+endeavour verb_participle noun
+convention noun
+endeavoured verb_participle
+prejudice noun verb_transitive
+lieutenant noun
+surprising adjective noun
+assisted adjective
+extending verb_participle
+marvellous adjective
+confident adjective noun
+selection noun
+inquiries plural
+beforehand adverb adjective
+retorted verb_participle
+cheerfully adverb
+righteousness noun
+producing verb_participle
+reasoning noun adjective
+gravity noun
+languages plural
+asserted adjective
+bodily adjective adverb
+oliver noun
+faculty noun
+possessions plural
+disciples plural
+divisions plural
+justify verb_participle
+manuscript noun
+warrior noun
+impressions plural
+specially adverb
+unwilling adjective
+adapted adjective
+civilized adjective
+invented adjective
+encountered verb_participle
+maintaining verb_participle
+barbara noun
+respected adjective
+behaviour noun
+desolate adjective verb_participle
+revenue noun
+infringement noun
+eagerness noun
+visiting noun
+travellers plural
+enjoying verb_participle
+totally adverb
+tenderly adverb
+disaster noun
+computers plural
+ascended verb_participle
+incidents plural
+dominion noun
+complexion noun verb_participle
+relatives plural
+comprehend verb_participle verb_transitive
+opera noun
+officials plural
+compliment noun verb_participle
+approval noun
+compassion noun
+latitude noun
+projected adjective
+resentment noun
+transcription noun
+document noun verb_participle
+glittering adjective
+attachment noun
+ambitious adjective
+holiday noun verb_intransitive
+recollect verb_participle
+recommend verb_transitive verb_participle
+suspicious adjective
+resulting adjective
+seventy noun definite_article
+clergyman noun
+disorder noun verb_transitive
+exalted adjective
+binary adjective noun
+anyhow adverb
+instructed adjective
+bewildered adjective
+positions plural verb_transitive
+edited adjective
+continues verb_transitive
+loyalty noun
+documents plural verb_transitive
+expressing verb_participle
+awaiting verb_participle
+potatoes plural
+entertain verb_participle verb_transitive
+faculties plural
+hesitate verb_intransitive verb_participle
+seventeen noun definite_article
+feminine adjective noun
+warranties plural
+happier adjective
+gigantic adjective
+tyranny noun
+dignified adjective
+magistrate noun
+respective adjective
+studying noun
+depended verb_transitive
+locations plural
+neighbouring adjective
+promotion noun
+faithfully adverb
+excellence noun
+awaited adjective
+poetic adjective
+consulted verb_participle
+whereupon conjunction adverb
+terribly adverb
+suspicions plural
+sentences plural
+radiant adjective noun
+indignant adjective
+pertaining verb_participle
+disclaimer noun
+specimens plural
+ascertain verb_transitive verb_participle
+supposing verb_participle
+attending adjective noun
+angrily adverb
+hurriedly adverb
+quantities plural
+produces verb_transitive
+admission noun
+terrified verb_transitive adjective
+persisted verb_participle
+conference noun
+generals plural
+surroundings noun
+occasioned verb_participle
+invasion noun
+discretion noun
+exceeding adjective adverb
+triumphant adjective
+defiance noun
+grandmother noun
+promising adjective
+scenery noun
+specimen noun
+eloquent adjective
+manager noun
+rational adjective
+processing noun
+accurate adjective
+refusal noun
+salary noun verb_participle
+defended verb_participle
+ingenious adjective
+successor noun
+ultimate adjective noun
+submission noun
+monument noun
+exciting adjective
+prosperous adjective
+declaring verb_participle
+thoughtfully adverb
+allowing verb_participle
+adjoining adjective
+cathedral noun adjective
+caroline noun
+tomorrow noun adverb
+finishing noun
+forgetting verb_participle
+mysteries plural
+honesty noun
+sacrificed verb_participle
+utterance noun
+reflections plural
+pathetic adjective
+imperfect adjective noun
+hurrying verb_participle noun
+attempting verb_participle
+offensive adjective noun
+florida noun
+reverend adjective noun
+successive adjective
+perception noun
+buffalo noun verb_transitive
+develop verb_participle verb_transitive
+excessive adjective
+mexican noun
+piety noun
+substantial adjective noun
+subjected verb_participle
+exhibit verb_participle noun
+corruption noun
+cabinet noun adjective
+repeating noun
+allowance noun verb_transitive
+treachery noun
+attendant noun adjective
+murderer noun
+theories plural
+possesses verb_transitive
+factory noun
+attendance noun
+honestly adverb interjection
+descending adjective
+sincerely adverb
+succeeding adjective
+cautiously adverb
+afflicted adjective
+petition noun verb_transitive
+sparkling verb_intransitive noun
+disposal noun
+carriages plural
+ornament noun verb_participle
+fantastic adjective noun
+patiently adverb
+foliage noun
+influenced verb_participle
+governments plural
+pleasantly adverb
+columbus noun
+attendants plural
+modesty noun
+diana noun
+decisive adjective
+negative adjective noun
+occurrence noun
+festival noun
+wickedness noun
+carelessly adverb
+preference noun
+removal noun
+assertion noun
+comedy noun
+adequate adjective
+newsletter noun
+battery noun
+attraction noun
+detective noun adjective
+revolver noun
+paces verb_intransitive
+paperwork noun
+emphasis noun
+exclusive adjective noun
+uncommon adjective adverb
+confounded adjective
+envelope noun
+whoever pronoun
+expensive adjective
+headquarters noun
+startling verb_participle adjective
+cigarette noun
+embarrassed adjective
+volunteer noun verb_participle
+reaction noun
+regiments plural
+partially adverb
+allusion noun
+benjamin noun
+ministry noun
+sexual adjective
+marrying verb_participle
+penalty noun
+corridor noun
+proportions plural
+alternate verb_participle verb_intransitive
+quivering noun
+objected verb_participle
+ascertained adjective
+acceptance noun
+cordial adjective noun
+engineer noun verb_transitive
+encoding verb_transitive noun
+disappear verb_intransitive verb_participle
+diminished adjective
+objections plural
+suggestions plural
+diseases plural
+detected adjective
+cicero noun
+communion noun
+forgiveness noun
+awfully adverb
+commonplace adjective noun
+resembled verb_transitive
+contracted adjective
+inscription noun
+indulgence noun verb_transitive
+enlightened noun
+compliments noun
+extension noun
+constitute verb_transitive verb_participle
+inflicted verb_participle
+downloading verb_participle
+overhead adjective adverb
+commencement noun
+oppression noun
+publicly adverb
+melody noun
+descendants noun
+candidate noun
+obstinate adjective
+foreigners plural
+elderly adjective
+overwhelmed adjective
+telegraph noun verb_participle
+varying verb_participle adjective
+barbarous adjective
+modify verb_participle verb_intransitive
+earnestness noun
+exertion noun
+refusing verb_participle
+inspection noun
+regretted verb_participle
+pursuing verb_participle adjective
+foundations plural
+undertook verb_participle
+telegram noun
+magistrates plural
+substitute verb_participle noun
+primary adjective noun
+prophecy noun
+spectacles noun
+obsolete adjective
+competent adjective
+gratified verb_transitive adjective
+circular adjective noun
+securing verb_participle
+neighboring adjective
+accounted verb_participle
+augustus noun
+ivory noun
+policeman noun
+personage noun
+classical adjective
+alongside preposition adverb
+rewarded verb_participle
+forgiven verb_participle
+realised verb_participle
+arising verb_intransitive
+observer noun
+avenue noun
+elephant noun
+affecting adjective
+efficient adjective
+supporting adjective noun
+disturbance noun
+seemingly adverb
+painfully adverb
+imposing adjective
+notable adjective noun
+invested adjective
+imprisoned adjective
+assented verb_participle
+ideals plural
+resulted verb_participle
+illusion noun
+troublesome adjective
+repentance noun
+compromise noun verb_participle
+respectful adjective
+chariot noun verb_participle
+assistant noun adjective
+saluted verb_participle
+boundary noun
+indebted adjective
+processes plural
+weariness noun
+resolute adjective
+consumption noun
+resemble verb_transitive verb_participle
+gradual adjective noun
+shadowy adjective
+annoyance noun
+execute verb_transitive verb_participle
+monarchy noun
+endeavor verb_intransitive noun
+barrier noun
+politeness noun
+courteous adjective
+logical adjective
+discussing verb_participle
+judicial adjective
+consistent adjective
+ridicule noun verb_transitive
+verily adverb
+exertions plural
+tedious adjective
+impressive adjective
+displeasure noun verb_transitive
+underneath preposition adverb
+resisted verb_participle
+provincial adjective noun
+merciful adjective
+genial adjective
+conjecture noun verb_participle
+covenant noun verb_participle
+interposed verb_participle
+properties plural
+perilous adjective
+obstacle noun
+destitute adjective
+plantation noun
+pitiful adjective
+requisite adjective noun
+payable adjective
+intensely adverb
+dominions plural
+amazing adjective
+trivial adjective
+rejoicing verb_participle noun
+removing verb_participle
+palaces plural
+sorrowful adjective
+improvements plural
+typical adjective
+recognise verb_transitive
+expressive adjective
+destroying verb_participle
+excepting preposition conjunction
+champion noun adjective
+admiring verb_participle adjective
+chemical noun adjective
+especial adjective
+attentive adjective
+maintenance noun
+admiral noun
+resume verb_participle verb_transitive
+imitate verb_transitive verb_participle
+happening noun adjective
+majestic adjective
+messages plural
+agency noun
+arisen verb_intransitive
+intently adverb
+depression noun
+technical adjective
+vehicle noun
+flattering adjective
+prodigious adjective
+fortified verb_participle adjective
+salute verb_transitive noun
+contribute verb_participle verb_intransitive
+attribute verb_participle verb_transitive
+discontent noun adjective
+orderly adjective adverb
+messengers plural
+penetrate verb_participle verb_transitive
+holiness noun
+housekeeper noun
+productions plural
+militia noun
+nobleman noun
+energies plural
+affliction noun
+photograph noun verb_participle
+jupiter noun
+transparent adjective
+qualified adjective
+odious adjective
+loneliness noun
+dazzling verb_participle adjective
+novelty noun
+charities plural
+elephants plural
+endurance noun
+organic adjective noun
+allegiance noun
+expressly adverb
+duration noun
+collecting noun
+precaution noun
+privately adverb
+endeavored verb_participle
+entrusted verb_participle
+questioning adjective noun
+monuments plural
+loveliness noun
+confronted verb_participle
+traveling verb_participle noun
+profoundly adverb
+casual adjective noun
+analyzed verb_transitive adjective
+historic adjective
+studio noun
+exposure noun
+unbroken adjective
+apollo noun
+inserted adjective
+treacherous adjective
+invalid noun adjective
+corrected adjective
+infancy noun
+gentleness noun
+explosion noun
+selfishness adjective noun
+exceptions plural
+insolent adjective
+behavior noun
+nowadays adverb noun
+realise verb_participle
+feverish adjective
+tropical adjective
+overthrow verb_transitive noun
+achievement noun
+assumption noun
+humorous adjective
+composure noun
+orator noun
+ecstasy noun
+retirement noun adjective
+authorized adjective
+reconciled verb_transitive adjective
+mercury noun
+elegance noun
+chivalry noun
+luminous adjective
+confided verb_participle
+escaping verb_participle
+terrific adjective
+parliament noun
+sympathies plural
+suicide noun
+sinister adjective
+advocate verb_participle verb_transitive
+destructive adjective
+reporter noun
+detachment noun
+infernal adjective noun
+fugitive noun adjective
+excluded verb_transitive
+balcony noun
+nevada noun
+disastrous adjective
+burial noun
+employee noun
+employer noun
+transaction noun
+victories plural
+attorney noun
+politely adverb
+italians plural
+impulses plural
+ascending adjective noun
+cruelly adverb
+happiest adjective
+insulted adjective
+enchanted adjective
+reflecting adjective
+conqueror noun
+dynasty noun
+signature noun
+heretofore adverb adjective
+orthodox adjective
+offerings plural
+irony noun adjective
+inquiring adjective noun
+colonists plural
+illustrate verb_participle verb_transitive
+nursery noun
+adoption noun
+reluctance noun
+imported adjective
+sovereigns plural
+incessant adjective
+correctly adverb
+embroidered adjective
+bravery noun
+confinement noun
+transported adjective
+insolence noun
+secrecy noun
+thereupon adverb
+unlucky adjective
+adjacent adjective noun
+attacking adjective
+deposit verb_transitive noun
+refinement noun
+forcibly adverb
+reprinted verb_participle
+gaiety noun
+robbery noun
+transmitted adjective
+gratify verb_participle
+heavier adjective
+batteries plural
+pilgrimage noun verb_intransitive
+idleness noun
+merrily adverb
+excursion noun
+eminence noun
+montana noun
+shivering noun
+premises noun
+productive adjective
+discouraged verb_transitive adjective
+persuasion noun
+invaded verb_participle
+ungrateful adjective
+cultivate verb_transitive verb_participle
+marian adjective
+magnitude noun
+precautions plural
+requiring verb_transitive
+opponent noun adjective
+cowardly adjective
+protecting adjective noun
+desiring verb_participle
+precision noun
+seventeenth adjective noun
+dreadfully adverb
+asterisk noun verb_transitive
+edifice noun
+reckoning noun
+syllable noun verb_participle
+handwriting noun
+reduction noun
+cordially adverb
+dialogue noun verb_participle
+diligence noun
+disgusted adjective
+retiring adjective
+valentine noun
+dimensions plural
+infamous adjective
+powerless adjective
+passenger noun
+episode noun
+populace noun
+persistent adjective
+inviting adjective
+criminals plural
+leisurely adjective adverb
+audible adjective
+radiance noun
+underline verb_participle verb_transitive
+unequal adjective
+enduring adjective
+deference noun
+formally adverb
+manual adjective noun
+disturbing adjective
+mischievous adjective
+foreigner noun
+masculine adjective noun
+umbrella noun adjective
+mineral noun adjective
+alaska noun
+aversion noun
+customers plural
+flattery noun
+director noun
+temporal adjective
+patriot noun
+malicious adjective
+skeleton noun
+progressive adjective noun
+reconcile verb_transitive verb_participle
+insurance noun
+interrupt verb_participle verb_transitive
+signify verb_participle verb_transitive
+contemplate verb_participle verb_intransitive
+aforesaid adjective
+befallen verb_participle
+awaken verb_transitive verb_intransitive
+conductor noun
+dependence noun
+guarantee noun verb_participle
+procedure noun
+projecting adjective
+cheerfulness noun
+deity noun
+muscular adjective
+restaurant noun
+exhaustion noun
+hercules noun
+attach noun verb_participle
+fellowship noun
+demanding adjective
+ensuring verb_transitive
+longitude noun
+secondly adverb
+violin noun
+radical adjective noun
+accursed adjective
+tendencies plural
+resident noun adjective
+ominous adjective
+overboard adverb
+currency noun
+violet noun adjective
+mastery noun
+objective adjective noun
+reluctant adjective
+patronage noun verb_participle
+revenues plural
+vexation noun
+indicates verb_transitive
+overheard verb_transitive
+thereafter adverb
+exporting noun
+taxation noun
+disputed verb_participle adjective
+suggestive adjective
+expansion noun
+sophia noun
+commanders plural
+interfered verb_intransitive
+noticing verb_participle
+courtiers plural
+consequent adjective noun
+particles plural
+signifies verb_intransitive
+paternal adjective
+engaging adjective
+avoiding verb_participle
+abolished verb_participle
+idiot noun
+applying verb_participle
+creative adjective
+lowering adjective noun
+degraded adjective
+merchandise noun verb_participle
+despairing adjective
+asylum noun
+gardener noun
+protector noun
+concealment noun
+accession noun verb_transitive
+connexion noun
+considers verb_transitive
+achievements plural
+deserving adjective noun
+veteran noun adjective
+advancement noun
+inventor noun
+hopelessly adverb
+judicious adjective
+testify verb_participle verb_transitive
+governess noun
+orchestra noun
+foregoing adjective
+maternal adjective
+maryland noun
+corrections plural
+completion noun
+forsaken verb_participle adjective
+spirited adjective
+christendom noun
+defending adjective
+disregard verb_transitive noun
+notifies verb_transitive
+asunder adverb adjective
+mentioning verb_participle
+pastoral adjective noun
+musician noun
+mentally adverb
+apostle noun
+convincing adjective noun
+commented verb_participle
+precipice noun
+outdated adjective
+dialect noun
+cowardice noun
+denial noun
+underground adjective adverb
+vividly adverb
+puritan noun adjective
+conjunction noun
+oppressive adjective
+formula noun
+plentiful adjective
+constable noun
+enveloped verb_participle adjective
+enmity noun
+improper adjective
+architect noun
+register noun verb_transitive
+heroine noun
+defensive adjective noun
+constitutes verb_transitive
+fisherman noun
+measuring verb_participle noun
+rebellious adjective
+consulting adjective
+manila noun
+massacre noun verb_transitive
+transition noun
+burgundy noun
+collections plural
+alcohol noun
+impending adjective
+declining verb_participle adjective
+spectator noun
+winchester noun
+commonwealth noun
+tremulous adjective
+admitting verb_participle
+discomfort noun verb_transitive
+bachelor noun verb_participle
+courageous adjective
+carpenter noun verb_intransitive
+concluding verb_participle adjective
+dictated verb_participle adjective
+appalling adjective noun
+imminent adjective
+dominant adjective noun
+leadership noun
+wearily adverb
+diary noun
+apprehend verb_transitive verb_participle
+securely adverb
+connecting noun
+celebrate verb_participle verb_transitive
+deputy noun adjective
+discussions plural
+refreshment noun
+amendment noun
+appealing adjective
+vertical adjective noun
+manchester noun
+silvery adjective
+inherent adjective
+preventing verb_participle
+inference noun
+enclosure noun
+publisher noun
+refreshing adjective
+irene noun
+vinegar noun verb_transitive
+uncovered adjective
+gracefully adverb
+mightily adverb
+deities plural
+overtake verb_participle verb_transitive
+improving verb_participle adjective
+ferocious adjective
+subsistence noun
+disciple noun
+revival noun
+citadel noun
+despotism noun
+internet noun
+mechanism noun
+directors plural
+brilliancy noun
+extracted verb_participle
+veranda noun
+diminish verb_participle verb_transitive
+complaining adjective
+temperate adjective
+gambling verb_participle noun
+magazines plural
+submarine noun adjective
+regardless adjective adverb
+fearfully adverb
+convicted adjective
+deception noun
+religions plural
+governing noun
+prophetic adjective
+undergo verb_participle
+poisonous adjective
+concession noun
+starvation noun
+fortitude noun
+malignant adjective
+accorded verb_participle
+eccentric adjective noun
+anecdote noun
+scrutiny noun
+diversion noun
+correspond verb_intransitive verb_participle
+interpret verb_participle verb_intransitive
+vehement adjective
+operate verb_participle verb_transitive
+disgraceful adjective
+redemption noun
+embassy noun
+unfinished adjective
+frivolous adjective
+deficient adjective
+heroism noun
+apparel noun verb_participle
+carelessness noun
+connections plural
+industries plural
+forefathers plural
+restricted adjective
+ludicrous adjective
+colossal adjective
+stimulus noun
+vigilance noun
+overcoat noun
+expanded adjective
+archbishop noun
+abuses plural verb_transitive
+chocolate noun adjective
+privileged adjective
+overtook verb_participle
+caravan noun verb_participle
+eliza noun
+comparing verb_participle noun
+implements verb_transitive
+recompense verb_transitive noun
+cylinder noun verb_transitive
+summary noun adjective
+photographs plural
+colleges plural
+vehemence noun
+unlikely adjective
+joyfully adverb
+purposely adverb
+remedies plural verb_transitive
+indexes plural verb_transitive
+investment noun
+catalogue noun verb_participle
+strenuous adjective
+chemistry noun
+maritime adjective
+secular adjective noun
+averted verb_participle
+oracle noun
+regulate verb_transitive verb_participle
+etiquette noun
+theater noun
+thanksgiving noun
+conducting noun
+distorted adjective
+obliging adjective
+opium noun
+pavilion noun verb_transitive
+metallic adjective
+instructive adjective
+revealing noun
+prevalent adjective
+magical adjective
+manifold adjective noun
+volcanic adjective
+magnetic adjective
+decency noun
+observance noun
+impartial adjective
+slippery adjective
+oxygen noun
+wellington noun
+heresy noun
+location noun
+ancestor noun
+quotation noun
+custody noun
+plausible adjective
+rhetoric noun
+avarice noun
+commotion noun
+congenial adjective
+telescope noun verb_participle
+deposits plural
+renaissance noun
+angelo noun
+murderous adjective
+impudent adjective
+genoa noun
+courier noun
+literal adjective noun
+usefulness noun
+profusion noun
+twentieth adjective noun
+overcame verb_participle
+womanhood noun
+envious adjective
+forbidding adjective noun
+amateur noun adjective
+morally adverb
+perspective noun
+reverie noun
+nourishment noun
+corrupted adjective
+constancy noun
+distressing adjective
+novelist noun
+editors plural
+intricate adjective
+collision noun
+supplying verb_participle noun
+indirect adjective
+unnoticed adjective
+precedent noun adjective
+vacation noun verb_intransitive
+inspiring verb_participle adjective
+contradict verb_transitive verb_intransitive
+servitude noun
+elastic adjective noun
+prettiest adjective
+involving verb_transitive
+acquiring verb_transitive noun
+rendezvous noun verb_participle
+watery adjective
+publishing noun
+customer noun
+genesis noun
+eleventh adjective noun
+partition noun verb_transitive
+fanciful adjective
+sentinel noun verb_transitive
+unmarried adjective
+aesthetic adverb noun
+contentment noun
+organism noun
+emphatic adjective noun
+occurring verb_intransitive
+impudence noun
+corporal adjective noun
+heritage noun
+brotherhood noun
+inherit verb_participle verb_intransitive
+handsomely adverb
+butterfly noun
+narrowly adverb
+insulting adjective
+diligent adjective
+wretchedness noun
+encampment noun
+possessor noun
+absorbing adjective
+descendant noun adjective
+engineers plural
+clerical adjective
+ordinance noun
+vocation noun
+admirer noun
+timothy noun
+auspicious adjective
+reducing verb_participle noun
+ritual noun adjective
+sanctity noun
+cynical adjective
+inspector noun
+adjustment noun
+epistle noun
+turbulent adjective
+unaware adjective adverb
+initial adjective noun
+minimum noun adjective
+correction noun
+overlook verb_participle verb_transitive
+magician noun
+mystical adjective
+inhabit verb_transitive verb_intransitive
+willingness noun
+composing verb_participle noun
+controlling verb_participle noun
+temperance noun
+translations plural
+martyrdom noun
+listener noun
+genera noun
+contrivance noun
+museum noun
+alphabet noun
+pernicious adjective
+secluded adjective
+resisting verb_participle
+disgusting adjective
+ethical adjective
+recital noun
+ownership noun
+scrupulous adjective
+momentous adjective
+albeit conjunction
+civilised verb_transitive
+defiant adjective
+suppression noun
+unjustly adverb
+aggressive adjective
+predicted adjective
+ponderous adjective
+arrogance noun
+commissioned adjective
+ratio noun
+masterpiece noun
+embraces plural verb_transitive
+cavalier adjective noun
+rivalry noun
+pestilence noun
+receiver noun
+distinctive adjective
+consummate verb_participle verb_transitive
+populous adjective
+baronet noun
+commodore noun
+advocates plural verb_transitive
+mutiny noun verb_participle
+chronicles plural
+comforting adjective
+potato noun
+transient adjective noun
+anarchy noun
+revision noun
+disordered adjective
+menacing verb_participle adjective
+conveyance noun
+chivalrous adjective
+capricious adjective
+entreaty noun
+womanly adjective
+digestion noun
+infamy noun
+amorous adjective
+premature adjective
+extinction noun
+scandalous adjective
+multiply verb_participle verb_transitive
+subscription noun
+copious adjective
+privacy noun
+arena noun
+sensual adjective
+trustworthy adjective
+jamaica noun
+traveler noun
+particle noun
+stupendous adjective
+statistics noun
+calendar noun verb_transitive
+repulsive adjective
+conclusive adjective
+peaceable adjective
+emerald noun
+uppermost adjective adverb
+arduous adjective
+senators plural
+nominal adjective noun
+demonstrate verb_transitive verb_intransitive
+merciless adjective
+coloring noun
+perusal noun
+discarded adjective
+infection noun
+ruinous adjective
+conventions plural
+stumbling verb_participle adjective
+conveying noun
+syllables plural
+enchantment noun
+composer noun
+audacious adjective
+partnership noun
+pioneer noun verb_participle
+abnormal adjective
+omission noun
+canopy noun verb_participle
+athletic adjective
+drunkenness noun
+intrusion noun
+exacting adjective
+percentage noun
+cavity noun
+abstraction noun
+forefinger noun
+erection noun
+withdrawal noun
+senator noun
+ancestral adjective
+forbearance noun
+workmanship noun
+legacy noun
+compelling noun adjective
+flickering adjective
+derision noun
+vehicles plural
+whimsical adjective
+explicit adjective
+indolent adjective
+indistinct adjective
+coveted adjective
+sumptuous adjective
+reliance noun
+panama noun
+everyday adjective
+evermore adverb
+parapet noun
+cessation noun
+fervently adverb
+disabled verb_transitive noun
+arrogant adjective
+livelihood noun
+scattering noun adjective
+somerset noun
+surveying noun
+desertion noun
+believer noun
+negligence noun
+millionaire noun
+flowering adjective noun
+unwonted adjective
+restlessness noun
+actively adverb
+countryman noun
+outrageous adjective
+foolishness noun
+hurricane noun
+indulging verb_participle noun
+atrocious adjective
+tapestry noun
+impotent adjective
+acquitted verb_transitive adjective
+palpable adjective
+apprentice noun verb_transitive
+compartment noun
+sarcastic adjective
+emerging verb_intransitive adjective
+atonement noun
+whereabouts adverb noun
+mountainous adjective
+annoying adjective noun
+unreal adjective
+injunction noun
+scarcity noun
+aggregate adjective noun
+illegal adjective
+stealthily adverb
+volcano noun
+sullenly adverb
+commissions plural
+resounded verb_participle
+gunpowder noun
+combining verb_participle noun
+pitiless adjective
+vacancy noun
+crumbling verb_participle
+wanderer noun
+depicted adjective
+boisterous adjective
+lucia noun
+penitent adjective noun
+abiding adjective
+immoral adjective
+dishonest adjective
+supplement noun verb_participle
+cleverness noun
+ascetic noun adjective
+quotations plural
+friendliness noun
+rejection noun
+variance noun
+firmament noun
+absorption noun
+terminate verb_participle
+cleanliness noun
+collective adjective noun
+philippines noun
+ignoble adjective
+adjective noun adjective
+folio noun adjective
+dismissal noun
+enchanting adjective
+purified verb_participle adjective
