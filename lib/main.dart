@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:haiku/haiku.dart';
+import 'package:haiku/haiku_configs.dart';
 import 'package:haiku/haiku_bloc.dart';
 import 'package:haiku/home_page.dart';
 
@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return FutureBuilder(
-      future: Haiku.loadDictionary(),
+      future: loadDictionary(),
       builder: (context, snapshot) {
         if (snapshot.hasData) {
           return HaikuBloc(
