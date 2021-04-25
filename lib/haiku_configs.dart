@@ -1,17 +1,15 @@
-import 'dart:convert';
-import 'package:flutter/services.dart' show rootBundle;
-import 'package:haiku/haiku_configs.dart';
+// the base grammatical format of a haiku representing as a regular grammar
+const GRAMMAR = "(a*p?r?a*n + d*vv*d* + i + c)*";
+const SYLLABLE_PATTERN = [5, 7, 5];
 
-enum PartOfSpeech {
-  noun,
-  verb,
-  adjective,
-  adverb,
-  preposition,
-  conjunction,
-  article,
-  interjection,
-}
+const PUNCTUATION_WEIGHTS = {
+  '-': 3,
+  '!': 3,
+  '?': 3,
+  '.': 15,
+  ',': 15,
+  '': 50,
+};
 
 const PART_OF_SPEECH_MAPPING = {
   "noun": [PartOfSpeech.noun],
@@ -31,7 +29,41 @@ const PART_OF_SPEECH_MAPPING = {
   "definite_article": [PartOfSpeech.article],
 };
 
-const _TERMINAL_MAPPING = {
+//
+// the following configs should not be modified    #
+// they are meant to be constants                  #
+// """""""""""""""""""""""""""""""""""""" \ """"""""
+//                                         \
+//                                          \    /""\       ,
+//                                             <>^   L_____/|
+//           _________________________________   `) /`    , /   _____________________
+//          |\                                    \ `---'  /                       / |
+//           \\    ####    ####    ####    ####     `'";\)`        ####    ####   / /
+//            \\                                    _/_Y                         / /
+//             \\_______________________________________________________________/ /
+//              \|______________________________________________________________|/
+
+enum PartOfSpeech {
+  noun,
+  verb,
+  adjective,
+  adverb,
+  preposition,
+  conjunction,
+  article,
+  interjection,
+}
+
+int _punctuationWeightTotal;
+get getPunctuationWeightTotal {
+  if (_punctuationWeightTotal == null) {
+    _punctuationWeightTotal =
+        PUNCTUATION_WEIGHTS.values.reduce((a, b) => a + b);
+  }
+  return _punctuationWeightTotal;
+}
+
+const _TERMINAL_MAPPINGS = {
   "n": PartOfSpeech.noun,
   "v": PartOfSpeech.noun,
   "a": PartOfSpeech.adjective,
@@ -42,70 +74,12 @@ const _TERMINAL_MAPPING = {
   "i": PartOfSpeech.interjection,
 };
 
-const GRAMMAR = {
-  [
-    "raan",
-    "rnvprn",
-    "ind",
-  ],
-  [
-    "rnpn",
-    "cpan",
-    "rnpn",
-  ],
-  [
-    "rnprn",
-    "vvpan",
-    "an",
-  ],
-  [
-    "nvvv",
-    "vdcn",
-    "rnv",
-  ],
-  [
-    "prn",
-    "nnvpn",
-    "panpn",
-  ],
+const STANDARD_DICTIONARY = {
+  1: 'assets/data/1-syllable-words-tagged.txt',
+  2: 'assets/data/2-syllable-words-tagged.txt',
+  3: 'assets/data/3-syllable-words-tagged.txt',
+  4: 'assets/data/4-syllable-words-tagged.txt',
+  5: 'assets/data/5-syllable-words-tagged.txt',
+  6: 'assets/data/6-syllable-words-tagged.txt',
+  7: 'assets/data/7-syllable-words-tagged.txt',
 };
-
-// TODO: this should be passed into the bloc rather than being a global
-List<Map<PartOfSpeech, List<String>>> _dictionary;
-List<Map<PartOfSpeech, List<String>>> get dictionary => _dictionary;
-
-Future<bool> loadDictionary() async {
-  final splitter = LineSplitter();
-
-  _dictionary = [];
-
-  // iterate through each tagged word file organized by number of syllables
-  for (int syllables = 1; syllables <= 7; ++syllables) {
-    final filename = "assets/data/$syllables-syllable-words-tagged.txt";
-
-    // read each line of the file
-    final lines = await rootBundle.loadStructuredData<List<String>>(
-      filename,
-      (file) => Future.value(splitter.convert(file)),
-    );
-
-    // each line starts with its word followed by its potential parts of speech
-    final Map<PartOfSpeech, List<String>> definitions = {};
-    for (final line in lines) {
-      final symbols = line.split(" ");
-      final word = symbols[0];
-      for (final symbol in symbols.sublist(1)) {
-        for (final pos in PART_OF_SPEECH_MAPPING[symbol]) {
-          if (!definitions.containsKey(pos)) {
-            definitions[pos] = [];
-          }
-          definitions[pos].add(word);
-        }
-      }
-    }
-
-    _dictionary.add(definitions);
-  }
-
-  return true;
-}
