@@ -1,13 +1,14 @@
 import 'dart:async';
 
 import 'package:flutter/widgets.dart';
+import 'package:haiku/haiku_configs.dart';
 import 'package:haiku/haiku.dart';
 
 class HaikuBloc extends StatefulWidget {
-  final Dictionary dictionary;
+  final HaikuConfig config;
   final Widget child;
 
-  HaikuBloc({@required this.child, @required this.dictionary});
+  HaikuBloc({@required this.child, @required this.config});
 
   @override
   HaikuBlocState createState() => HaikuBlocState();
@@ -25,8 +26,7 @@ class HaikuBlocState extends State<HaikuBloc> {
   void initState() {
     super.initState();
 
-    _currentHaiku =
-        Haiku(DateTime.now().millisecondsSinceEpoch, this.widget.dictionary);
+    generateHaiku();
   }
 
   Haiku _currentHaiku;
@@ -34,7 +34,7 @@ class HaikuBlocState extends State<HaikuBloc> {
 
   void generateHaiku([int seed]) {
     _currentHaiku = Haiku(
-        seed ?? DateTime.now().millisecondsSinceEpoch, this.widget.dictionary);
+        seed ?? DateTime.now().millisecondsSinceEpoch, this.widget.config);
     _stream.add(_currentHaiku);
   }
 
