@@ -3,12 +3,7 @@ import 'package:haiku/haiku.dart';
 import 'package:haiku/haiku_bloc.dart';
 import 'package:haiku/haiku_widget.dart';
 
-class HomePage extends StatefulWidget {
-  @override
-  _HomePageState createState() => _HomePageState();
-}
-
-class _HomePageState extends State<HomePage> {
+class HomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return StreamBuilder<Haiku>(
