@@ -1,5 +1,7 @@
 import 'dart:convert';
+import 'package:flutter/foundation.dart';
 import 'package:flutter/services.dart' show rootBundle;
+import 'package:haiku/extensions.dart';
 import 'package:haiku/haiku_configs.dart';
 
 class Dictionary {
@@ -7,14 +9,18 @@ class Dictionary {
 
   Dictionary._(this.books);
 
-  static Future<Dictionary> load(Map<int, String> filenames) async {
+  static Future<Dictionary> load(Map<int, String> filenames,
+      [Map<String, List<PartOfSpeech>> partOfSpeechMapping =
+          _PART_OF_SPEECH_MAPPING]) async {
     final splitter = LineSplitter();
 
     // iterate through each tagged word file organized by number of syllables
     final books = <Book>[];
+
     await Future.forEach(filenames.entries, (entry) async {
       final syllables = entry.key;
       final filename = entry.value;
+      var wordCount = 0;
 
       // read each line of the file
       final lines = await rootBundle.loadStructuredData<List<String>>(
@@ -28,30 +34,63 @@ class Dictionary {
         final symbols = line.split(" ");
         final word = symbols[0];
         for (final symbol in symbols.sublist(1)) {
-          for (final pos in PART_OF_SPEECH_MAPPING[symbol]) {
+          for (final pos in partOfSpeechMapping[symbol]) {
             if (!definitions.containsKey(pos)) {
               definitions[pos] = [];
             }
             definitions[pos].add(word);
+            ++wordCount;
           }
         }
       }
-      books.add(Book(syllables, definitions));
+      books.add(Book(
+        syllables: syllables,
+        definitions: definitions,
+        wordCount: wordCount,
+      ));
     });
 
     return Dictionary._(books);
   }
 }
 
-class Book {
+class Book implements WeightedItem {
   final int syllables;
+  final int wordCount;
   final Map<PartOfSpeech, List<String>> _definitions;
   List<String> operator [](PartOfSpeech pos) => _definitions[pos];
+
+  int get weight => wordCount;
 
   Set<PartOfSpeech> get partsOfSpeech {
     return _definitions.keys.toSet();
   }
 
-  Book(this.syllables, Map<PartOfSpeech, List<String>> definitions)
-      : _definitions = definitions;
+  Book({
+    @required this.syllables,
+    @required Map<PartOfSpeech, List<String>> definitions,
+    @required this.wordCount,
+  }) : _definitions = definitions;
 }
+
+/// the keys here represent the possible parts of speech of each word
+/// these keys were obtained from the assets/data/x-syllable-words-tagged.txt files
+/// the values represent their mapping to the internal system used in this app
+/// the internal system "rounds" each part of speech to a broader category
+const _PART_OF_SPEECH_MAPPING = {
+  "noun": [PartOfSpeech.noun],
+  "plural": [PartOfSpeech.noun],
+  "noun_phrase": [PartOfSpeech.noun],
+  "nominative": [PartOfSpeech.noun],
+  "pronoun": [PartOfSpeech.noun],
+  "verb_participle": [PartOfSpeech.noun, PartOfSpeech.adjective],
+  "verb_transitive": [PartOfSpeech.verb],
+  "verb_intransitive": [PartOfSpeech.verb],
+  "adjective": [PartOfSpeech.adjective],
+  "adverb": [PartOfSpeech.adverb],
+  "conjunction": [PartOfSpeech.conjunction],
+  "preposition": [PartOfSpeech.preposition],
+  "interjection": [PartOfSpeech.interjection],
+  "indefinite_article": [PartOfSpeech.article],
+  "definite_article": [PartOfSpeech.article],
+};

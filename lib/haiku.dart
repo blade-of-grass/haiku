@@ -1,5 +1,6 @@
 import 'dart:math';
 import 'package:haiku/haiku_configs.dart';
+import 'package:haiku/extensions.dart';
 
 class Haiku {
   final _lines = <String>[];
@@ -20,7 +21,7 @@ class Haiku {
                 transitions.intersection(b.partsOfSpeech).isNotEmpty)
             .toList(growable: false)
             .chainedSort((a, b) => a.syllables.compareTo(b.syllables))
-            .getRandomElement(prng);
+            .getRandomWeightedElement(prng);
 
         final partOfSpeech = transitions
             .intersection(book.partsOfSpeech)
