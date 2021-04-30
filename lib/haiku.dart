@@ -10,25 +10,32 @@ class Haiku {
     final prng = Random(seed);
     final pattern = config.pattern;
 
-    config.parser.reset();
+    config.reader.reset();
 
     for (int syllables in pattern) {
       String line = "";
       while (syllables > 0) {
-        final transitions = config.parser.transitions;
+        final transitions = config.reader.transitions;
         final book = config.dictionary.books
-            .where((b) => b.syllables <= syllables && transitions.contains(b))
+            .where((b) =>
+                b.syllables <= syllables &&
+                transitions.intersection(b.partsOfSpeech).isNotEmpty)
             .toList(growable: false)
+            .chainedSort((a, b) => a.syllables.compareTo(b.syllables))
             .getRandomElement(prng);
 
-        final partOfSpeech = book.partsOfSpeech.getRandomElement(prng);
+        final partOfSpeech = transitions
+            .intersection(book.partsOfSpeech)
+            .toList()
+            .chainedSort((a, b) => a.index.compareTo(b.index))
+            .getRandomElement(prng);
 
         line += book[partOfSpeech].getRandomElement(prng);
 
         // we have consumed some syllables
         // we have also transitioned to the next state
         syllables -= book.syllables;
-        config.parser.transition(partOfSpeech);
+        config.reader.transition(partOfSpeech);
 
         // once we reach the end of the line consider adding punctuation
         if (syllables == 0) {

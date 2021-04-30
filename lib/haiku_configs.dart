@@ -14,7 +14,7 @@ const GRAMMAR = "a*p?r?a*n + d*vv*d* + i + c";
 const SYLLABLE_PATTERN = [5, 7, 5];
 
 // TODO: I would like to build these into the grammar
-// {-:3!:3?:3.:15,:15:50} should be equivalent to the following:
+// {-:3 !:3 ?:3 .:15 ,:15 :50} should be equivalent to the following:
 /// how much weight to apply to each punctuation character
 const _PUNCTUATION_WEIGHTS = {
   '-': 3,
@@ -103,12 +103,12 @@ const STANDARD_DICTIONARY = {
 
 class HaikuConfig {
   Dictionary dictionary;
-  GrammarParser parser;
+  StateMachine<PartOfSpeech> reader;
   List<int> pattern;
 
   HaikuConfig._({
     @required this.dictionary,
-    @required this.parser,
+    @required this.reader,
     @required this.pattern,
   });
 
@@ -116,7 +116,7 @@ class HaikuConfig {
       String grammar, List<int> pattern) async {
     return HaikuConfig._(
       dictionary: await Dictionary.load(dictionaryFiles),
-      parser: GrammarParser(grammar),
+      reader: StateMachine.parseGrammar(grammar, _TERMINAL_MAPPINGS),
       pattern: pattern,
     );
   }
@@ -130,4 +130,20 @@ extension RandomElement<T> on List<T> {
   T getRandomElement(Random random) {
     return this[random.nextInt(this.length)];
   }
+
+  List<T> chainedSort([int compare(T a, T b)]) {
+    this.sort(compare);
+    return this;
+  }
 }
+
+const _TERMINAL_MAPPINGS = {
+  "n": PartOfSpeech.noun,
+  "v": PartOfSpeech.noun,
+  "a": PartOfSpeech.adjective,
+  "d": PartOfSpeech.adverb,
+  "p": PartOfSpeech.preposition,
+  "c": PartOfSpeech.conjunction,
+  "r": PartOfSpeech.article,
+  "i": PartOfSpeech.interjection,
+};

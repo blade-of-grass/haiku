@@ -48,8 +48,8 @@ class Book {
   final Map<PartOfSpeech, List<String>> _definitions;
   List<String> operator [](PartOfSpeech pos) => _definitions[pos];
 
-  List<PartOfSpeech> get partsOfSpeech {
-    return _definitions.keys.toList(growable: false);
+  Set<PartOfSpeech> get partsOfSpeech {
+    return _definitions.keys.toSet();
   }
 
   Book(this.syllables, Map<PartOfSpeech, List<String>> definitions)
