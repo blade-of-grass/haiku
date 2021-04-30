@@ -122,24 +122,9 @@ class HaikuConfig {
   }
 }
 
-T getRandomElement<T>(List<T> elements, Random random) {
-  return elements[random.nextInt(elements.length)];
-}
-
-extension RandomElement<T> on List<T> {
-  T getRandomElement(Random random) {
-    return this[random.nextInt(this.length)];
-  }
-
-  List<T> chainedSort([int compare(T a, T b)]) {
-    this.sort(compare);
-    return this;
-  }
-}
-
 const _TERMINAL_MAPPINGS = {
   "n": PartOfSpeech.noun,
-  "v": PartOfSpeech.noun,
+  "v": PartOfSpeech.verb,
   "a": PartOfSpeech.adjective,
   "d": PartOfSpeech.adverb,
   "p": PartOfSpeech.preposition,
@@ -147,3 +132,12 @@ const _TERMINAL_MAPPINGS = {
   "r": PartOfSpeech.article,
   "i": PartOfSpeech.interjection,
 };
+
+extension RandomElement<T> on List<T> {
+  T getRandomElement(Random random) => this[random.nextInt(length)];
+
+  List<T> chainedSort([int compare(T a, T b)]) {
+    this.sort(compare);
+    return this;
+  }
+}

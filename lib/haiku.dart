@@ -8,11 +8,9 @@ class Haiku {
 
   Haiku(int seed, HaikuConfig config) : this.seed = seed {
     final prng = Random(seed);
-    final pattern = config.pattern;
 
     config.reader.reset();
-
-    for (int syllables in pattern) {
+    for (int syllables in config.pattern) {
       String line = "";
       while (syllables > 0) {
         final transitions = config.reader.transitions;

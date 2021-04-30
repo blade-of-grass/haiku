@@ -8,6 +8,8 @@ class StateMachine<T> {
 
   StateMachine.parseGrammar(String grammar, Map<String, T> terminalMappings) {
     int state = _START_STATE;
+    bool recordStarts = true;
+    var starts = <int, T>{};
     var context = <int>{state};
     var previousStates = {...context};
 
@@ -26,6 +28,10 @@ class StateMachine<T> {
             .forEach((s) => _statesAndTransitions[s][terminal] = state);
         if (previousTerminal != null) {
           previousStates.clear();
+          recordStarts = false;
+        }
+        if (recordStarts) {
+          starts[state] = terminal;
         }
         previousTerminal = terminal;
         previousStates.add(state);
@@ -41,8 +47,9 @@ class StateMachine<T> {
           throw new Exception(
               'the (+) operator must be preceded by a statement ( $progress )');
         }
+        recordStarts = true;
         if (previousTerminal == null) {
-          context = previousStates.union(context);
+          context = context.union(previousStates);
           previousStates = {...context};
         } else {
           context.add(state);
@@ -51,43 +58,13 @@ class StateMachine<T> {
       } else if (symbol != ' ') {
         throw new Exception('symbol ($symbol) not recognized ( $progress )');
       }
-
-      // String char = String.fromCharCode(rune);
-      // progress += char;
-      // if (_TERMINAL_MAPPINGS.containsKey(char)) {
-      //   if (lastReadTerminal != null) {
-      //     if (inputs.length > 0) {
-      //       inputs.forEach(
-      //           (input) => _statesAndTransitions[state][input] = state + 1);
-      //       ++state;
-      //       _statesAndTransitions[state] = {};
-      //     }
-      //     _statesAndTransitions[state][lastReadTerminal] = state + 1;
-      //     ++state;
-      //     _statesAndTransitions[state] = {};
-      //   }
-      //   lastReadTerminal = _TERMINAL_MAPPINGS[char];
-      // } else {
-      //   if (char == '*') {
-      //     checkValidity(lastReadTerminal, '*');
-      //     inputs.add(lastReadTerminal);
-      //     _statesAndTransitions[state][lastReadTerminal] = state;
-      //   } else if (char == '?') {
-      //     checkValidity(lastReadTerminal, '?');
-      //     inputs.add(lastReadTerminal);
-      //   } else if (char == '+') {
-      //     checkValidity(lastReadTerminal, '+');
-      //     inputs.forEach(
-      //         (input) => _statesAndTransitions[state][input] = _START_STATE);
-      //     inputs.clear();
-      //     state = _START_STATE;
-      //     lastReadTerminal = null;
-      //   } else if (char != ' ') {
-      //     throw new Exception(
-      //         "unsupported character ($char) found while parsing grammar ($progress)");
-      //   }
-      // }
     });
+    previousStates.union(context).forEach((finalState) {
+      starts.forEach((state, terminal) {
+        _statesAndTransitions[finalState][terminal] = state;
+      });
+    });
+
     print(_statesAndTransitions);
   }
 
