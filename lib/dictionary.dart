@@ -9,6 +9,8 @@ class Dictionary {
 
   Dictionary._(this.books);
 
+  /// filenames
+  ///
   static Future<Dictionary> load(Map<int, String> filenames,
       [Map<String, List<PartOfSpeech>> partOfSpeechMapping =
           _PART_OF_SPEECH_MAPPING]) async {
@@ -35,11 +37,16 @@ class Dictionary {
         final word = symbols[0];
         for (final symbol in symbols.sublist(1)) {
           for (final pos in partOfSpeechMapping[symbol]) {
+            // if the part-of-speech doesn't exist in the dictionary, assign a new array as it's value
             if (!definitions.containsKey(pos)) {
               definitions[pos] = [];
             }
-            definitions[pos].add(word);
-            ++wordCount;
+
+            // this block is required to not count the same part-of-speech -> word mapping twice
+            if (!definitions[pos].contains(word)) {
+              definitions[pos].add(word);
+              ++wordCount;
+            }
           }
         }
       }
@@ -83,7 +90,7 @@ const _PART_OF_SPEECH_MAPPING = {
   "noun_phrase": [PartOfSpeech.noun],
   "nominative": [PartOfSpeech.noun],
   "pronoun": [PartOfSpeech.noun],
-  "verb_participle": [PartOfSpeech.noun, PartOfSpeech.adjective],
+  "verb_participle": [PartOfSpeech.verb, PartOfSpeech.adjective],
   "verb_transitive": [PartOfSpeech.verb],
   "verb_intransitive": [PartOfSpeech.verb],
   "adjective": [PartOfSpeech.adjective],

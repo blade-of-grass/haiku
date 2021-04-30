@@ -7,7 +7,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:haiku/grammar_parser.dart';
+import 'package:haiku/state_machine.dart';
 import 'package:haiku/haiku_configs.dart';
 
 import 'package:haiku/main.dart';
@@ -30,6 +30,9 @@ void main() {
   //   expect(find.text('1'), findsOneWidget);
   // });
   //
+
+  // TODO: write a function to test for "machine isomorphism"
+  // then write a bunch of grammar to map unit tests to ensure that the approach works
   final parser = StateMachine.parseGrammar("n+v", {"n": "n", "v": "v"});
   parser.transitions.containsAll(["n", "v"]);
 }

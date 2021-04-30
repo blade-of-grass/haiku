@@ -23,27 +23,23 @@ class MyApp extends StatelessWidget {
           6: 'assets/data/6-syllable-words-tagged.txt',
           7: 'assets/data/7-syllable-words-tagged.txt',
         },
-        // a grammar describing the kinds of haikus the generator should create e.g. "a*p?r?a*n + d*vv*d* + i + c";
-        grammar: "pa?ni?c? + d*vi?c?",
+        // a grammar describing the kinds of haikus the generator should create
+        grammar: "a*p?r?a*n + d*vv*d* + i + c",
         // each number corresponds to the number of syllables each line should have
         pattern: [5, 7, 5],
       ),
-      builder: (context, snapshot) {
-        if (snapshot.hasData) {
-          return HaikuBloc(
-            config: snapshot.data,
-            child: MaterialApp(
-              title: 'Flutter Demo',
-              debugShowCheckedModeBanner: false,
-              theme: _lightTheme,
-              darkTheme: _darkTheme,
-              home: HomePage(),
-            ),
-          );
-        } else {
-          return SizedBox.shrink();
-        }
-      },
+      builder: (context, snapshot) => snapshot.hasData
+          ? HaikuBloc(
+              config: snapshot.data,
+              child: MaterialApp(
+                title: 'Flutter Demo',
+                debugShowCheckedModeBanner: false,
+                theme: _lightTheme,
+                darkTheme: _darkTheme,
+                home: HomePage(),
+              ),
+            )
+          : SizedBox.shrink(),
     );
   }
 }

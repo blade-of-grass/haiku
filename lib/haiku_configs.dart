@@ -5,7 +5,7 @@
 
 import 'package:flutter/foundation.dart';
 import 'package:haiku/dictionary.dart';
-import 'package:haiku/grammar_parser.dart';
+import 'package:haiku/state_machine.dart';
 
 // TODO: I would like to build these into the grammar
 // {-:3 !:3 ?:3 .:15 ,:15 :50} should be equivalent to the following:
@@ -44,6 +44,7 @@ enum PartOfSpeech {
   interjection,
 }
 
+// TODO: remove this punctuation stuff once "weighted terminals" are implemented
 int _punctuationWeightTotal;
 get getPunctuationWeightTotal {
   if (_punctuationWeightTotal == null) {

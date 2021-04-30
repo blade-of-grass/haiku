@@ -2508,7 +2508,6 @@ deuce noun interjection
 thigh noun
 scant adjective verb_transitive
 mien noun
-cor interjection noun
 peers plural
 chant noun verb_participle
 marsh noun
